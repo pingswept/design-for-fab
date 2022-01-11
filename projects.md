@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="css/tufte.css"/>
-</head>
-<body>
 <!--
 
 --------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2022! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
@@ -111,6 +105,7 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 
 Project due: Tuesday, February 4, at the start of class.
 -->
+
 # P1: Build a trigger mechanism
 
 Make a trigger mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth).
