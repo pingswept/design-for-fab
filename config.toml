@@ -1,0 +1,11 @@
+baseURL = "http://designforfab.com/"
+languageCode = "en-us"
+title = "Tufts ME 193: DFF"
+theme = "book"
+enableGitInfo = true
+[params]
+  BookSection = '*'
+  BookRepo = 'https://github.com/pingswept/designforfab'
+  BookEditPath = 'edit/master/content'
+[markup.goldmark.renderer]
+  unsafe= true
