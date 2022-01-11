@@ -1,0 +1,20 @@
+name: Run Hugo via SSH
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run Hugo via SSH
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: cd design-for-fab; git pull https://github.com/pingswept/design-for-fab.git; /snap/bin/hugo; cp -r ./public/* /var/www/design-for-fab/
+          host: 45.79.177.197
+          username: root
+          passphrase: ${{ secrets.PASSPHRASE }}
+          privateKey: ${{ secrets.PRIVATE_KEY}}
+
+        env:
+          CI: true
