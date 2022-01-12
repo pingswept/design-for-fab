@@ -5,7 +5,7 @@ theme = "book"
 enableGitInfo = true
 [params]
   BookSection = '*'
-  BookRepo = 'https://github.com/pingswept/designforfab'
+  BookRepo = 'https://github.com/pingswept/design-for-fab'
   BookEditPath = 'edit/master/content'
 [markup.goldmark.renderer]
   unsafe= true
