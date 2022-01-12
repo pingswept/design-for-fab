@@ -121,7 +121,7 @@ Make a trigger mechanism that can reliably hold and release a 9.8 N force (the w
 *   2 M8 x 1.25 mm nuts with nylon inserts
 *   1 rubber band, size 64
 *   2 socket head cap screws, M3 x 0.5 mm, 8mm length
-*   1 plastic ball, 0.5" in diameter
+*   1 plastic ball, 12 mm in diameter
 *   2 M3 x 0.5 mm brass heat-set inserts (in orange cabinet in Nolop)
 *   (if you want) washers that fit M8 bolts (in gray cabinets in Nolop)
 
