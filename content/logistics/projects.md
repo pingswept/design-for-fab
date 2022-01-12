@@ -1,3 +1,7 @@
+---
+title: "Projects"
+draft: false
+---
 <!--
 
 --------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2022! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
