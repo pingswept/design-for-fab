@@ -114,16 +114,18 @@ Project due: Tuesday, February 4, at the start of class.
 
 Make a trigger mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth).
 
+The goal here is not to make a missile weapon, but to control a large force from the rubber band with a small force from your finger.
+
 ### You will be given:
 
 *   1 ball bearing, 22 mm OD, 8 mm ID, part number 608RS
 *   2 socket head cap screws, M8 x 1.25 mm, 25 mm length
 *   2 M8 x 1.25 mm nuts with nylon inserts
 *   1 rubber band, size 64
-*   2 socket head cap screws, M3 x 0.5 mm, 8mm length
 *   1 plastic ball, 12 mm in diameter
-*   2 M3 x 0.5 mm brass heat-set inserts (in orange cabinet in Nolop)
-*   (if you want) washers that fit M8 bolts (in gray cabinets in Nolop)
+*   Various socket head cap screws, available in gray drawers in Nolop
+*   Various brass heat-set inserts, available in the orange cabinet in Nolop
+*   Various washers, available in gray drawers in Nolop)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
