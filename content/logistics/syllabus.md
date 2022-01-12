@@ -1,8 +1,9 @@
-<article>
+---
+title: "Syllabus"
+draft: false
+---
 
 # Design for Fabrication syllabus
-
-<section>
 
 ME 93, Design for Fabrication, Section DF-LEC, class number 23803
 
@@ -127,10 +128,6 @@ We are also well-connected in the larger ecosystem of Boston makerspaces; if Tuf
 Engineering is hard, and you are adults. It is fairly easy to get discouraged and think that this class is too overwhelming or unstructured. It is both of those things, but the answer is to be resourceful and resilient in the face of that adversity.
 
 You have a great opportunity before you, in which you can try building stuff the world has never seen. You can also probably skate by without really putting your heart into it. You will get out of this class roughly what you put into it; I strongly recommend trying harder than usual.
-
-</section>
-
-</article>
 
 <footer>[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).</footer>
