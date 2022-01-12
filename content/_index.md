@@ -10,12 +10,6 @@ _Design for Fabrication_ is an engineering design class first taught by Brandon 
 
 The point of the class is to provide you with hands-on experience in engineering fabrication.
 
-## Basic information
-
-*   The [syllabus](syllabus.html) for the class
-*   [Project requirements](projects.html)
-*   Thoughts on [prototyping](prototyping.html)
-
 ## Project calendar
 
 ## THIS CALENDAR IS TOTALLY WRONG FOR 2022
