@@ -1,6 +1,6 @@
 baseURL = "http://designforfab.com/"
 languageCode = "en-us"
-title = "Tufts ME 193: DFF"
+title = "Tufts ME 93: DFF"
 theme = "book"
 enableGitInfo = true
 [params]
