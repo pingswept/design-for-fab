@@ -1,5 +1,5 @@
 ---
-title: ME 93 home
+title: Home
 type: homepage
 draft: false
 ---
