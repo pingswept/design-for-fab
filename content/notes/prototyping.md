@@ -1,3 +1,8 @@
+---
+title: "Prototyping"
+draft: false
+---
+
 # Prototyping
 
 The general conception of a prototype is an incomplete version of something, built hastily out of cheap materials, like building a foam-core model of a robot before building the real thing. You build a prototype, and then when you're done, you build the real thing.
