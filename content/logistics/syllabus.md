@@ -17,25 +17,17 @@ The goal of the course is to force students to gain experience with the practica
 
 ## Lecturer
 
-Brandon Stafford, brandon.stafford@tufts.edu
+[Brandon Stafford](https://nolop.org/brandon-stafford/), brandon.stafford@tufts.edu
 
-I check email in the morning.
+## Course assistant
 
-## Course assistant, sort of
-
-???
+There is no course assistant.
 
 ## Office hours
 
 Brandon's office hours are:
 
-*   Tuesdays and Thursdays, noon - 1 PM in Nolop, AKA after class.
-*   any time we agree on by email
-*   most afternoons, 3-5 PM in Nolop
-
-???'s office hours are:
-
-*   Mondays and Wednesdays, 4:30-10:30 PM in Nolop
+* (We will decide on this in the first week.)
 
 ## Textbooks
 
@@ -43,7 +35,7 @@ There will be no textbook for the class.
 
 ## Assignments
 
-Most of the class will be working on 6 design challenges, sometimes in small teams.
+Most of the class will be working on 5 design challenges, sometimes in small teams.
 
 ## No electronics during lectures
 
@@ -51,7 +43,7 @@ Generally, I need too much of your attention to allow distractions like cell pho
 
 ## Lectures
 
-Tu, Th 10:30-11:45 AM in [](http://campusmaps.tufts.edu/medford/#fid=205), the Science and Engineering Complex, 200 College Avenue, 1st floor, [Room 22, also called "Blake-Perlman Computational Studio" or "that glass room next to the cafe in the SEC."](http://engineering.tufts.edu/computing/facilities/blake)
+Tu, Th 10:30-11:45 AM in [Blake](http://campusmaps.tufts.edu/medford/#fid=205), the Science and Engineering Complex, 200 College Avenue, 1st floor, [Room 22, also called "Blake-Perlman Computational Studio" or "that glass room next to the cafe in the SEC."](http://engineering.tufts.edu/computing/facilities/blake)
 
 Project work will take place in Blake, in [Nolop](https://nolop.org/), and in [Bray Lab](https://sites.tufts.edu/bray/).
 
@@ -69,19 +61,17 @@ The course will be graded on the basis of a series of student-generated learning
 
 ## Budget
 
-The Department of Mechanical Engineering will cover up to $NNN per student for project expenses.
+The Department of Mechanical Engineering will cover $1000 for the class as a whole for project expenses. We will try to allocate the support to those who need it the most.
 
 ## Project storage
 
-During the semester, you will be allocated a storage shelf in Bray, Nolop, or Blake where you can keep your projects and related materials. After the semester ends, either you can take your device back to your dorm room, or I will lovingly place it in the dumpster for you on May 1st (the first day of finals).
+During the semester, you will be allocated a storage shelf in Bray, Nolop, or Blake where you can keep your projects and related materials. After the semester ends, either you can take your device back to your dorm room, or I will lovingly place it in the dumpster for you on May 10th (the day after our final showcase).
 
 ## Materials and other resources available
 
 In addition to your project budget, we will have prototyping materials available for you to use. These will include foamcore, cardboard, lots of pink and blue foam, acrylic and aluminum. Most of this will be available in Bray or Nolop.
 
-For those of you thinking about an electromechanical solutions, I have a large collection of microcontrollers and sensors used for my electronics class; I'm happy to share that stuff as well.
-
-We are also well-connected in the larger ecosystem of Boston makerspaces; if Tufts doesn't have something you need, we can probably get you access to a space that has what you need.
+For those of you thinking about electromechanical solutions, I have a large collection of microcontrollers and sensors used for my electronics class; I'm happy to share that stuff as well.
 
 ## A note about general resourcefulness
 
