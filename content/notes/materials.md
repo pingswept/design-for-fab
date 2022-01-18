@@ -21,7 +21,7 @@ Once you get to industry, you have more choices-- LOTS MORE.
 
 There are at least 530 different aluminum alloys. For only $150, you can buy the ANSI H35.1 standard and read all 12 pages (includes appendix).
 
-Alternatively, here are a few guidelines that will help you get your bearings.
+Alternatively, here are a few guidelines that will help you get your bearings. (That's almost a pun, but bearings are made of 440C steel, not aluminum.)
 
 | Alloy | Composition               | Most common example |
 |:-----:|:-------------------------:|:-------------------:|
