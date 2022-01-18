@@ -12,7 +12,6 @@ The point of the class is to provide you with hands-on experience in engineering
 
 ## Project calendar
 
-## THIS CALENDAR IS TOTALLY WRONG FOR 2022
 | Week | Date  | Lecture                                    | Hands-on                      | What to study                                                            | Due dates (bring project to class, upload documentation by midnight after class)|
 |:----:|:-----:|--------------------------------------------|-------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------|
 |  1   | 1/20  | Set your learning goals                    |                               |                                                                          |                                                               |
