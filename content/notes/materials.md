@@ -45,3 +45,32 @@ Alternatively, here are a few guidelines that will help you get your bearings.
 * 7075-T6: the most bad-ass aluminum
 
 Reminder about fatigue: aluminum fatigues; steel doesn't.
+
+## Steel
+
+Steel = iron + carbon (0.04% - 1.5%)
+
+You can read about different steel alloys in the SAE A29 standard, only $56 for 17 pages (almost 4x cheaper than the H35.1 aluminum standard!).
+
+Generally, the last two digits of the alloy designation are the carbon concentration by mass in hundredths of a percent.
+
+| Alloy | Composition                | Example                              |
+|:-----:|:--------------------------:|:------------------------------------:|
+| 1xxx  | plain carbon steels        | 1010, 1018                           |
+| 2xxx  | nickel                     |                                      |
+| 3xxx  | nickel-chromium            |                                      |
+| 4xxx  | molybdenum                 | 4130 (gears), 4140 (stiffer, harder) |
+| 5xxx  | chromium                   | 5160                                 |
+| 6xxx  | chromium-vanadium          |                                      |
+| 7xxx  | tungsten                   |                                      |
+| 8xxx  | nickel-chromium-molybdenum |                                      |
+| 9xxx  | silicon-manganese          |                                      |
+
+### Tool steel
+
+| Designator | Description          |
+|:----------:|:--------------------:|
+|     A2     | Air hardening        |
+|     M2     | Machine tool cutters |
+|     O1     | Oil hardening        |
+|     S2     | Shock resistant      |
