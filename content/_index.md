@@ -10,6 +10,16 @@ _Design for Fabrication_ is an engineering design class first taught by Brandon 
 
 The point of the class is to provide you with hands-on experience in engineering fabrication.
 
+## Zoom link for first class
+
+Our first class will be over Zoom: https://tufts.zoom.us/my/brandon.of.nolop This is actually okay, because most of what we need to do in the first class involves you guys thinking, which is actually a little hard to do in a classroom.
+
+## FAQ: What will happen if we have to quarantine/isolate?
+
+If we have less than around 10 people who are in isolation/quarantine, we will just hold class as normal. We will choose a note-taker, or possibly combine notes from a few people, and create a set of notes for our isolated/quarantined comrades. Additionally, I will talk with the people who are unable to attend and make sure they are up to speed on what they missed. This will be better than subjecting them to a farcical Zoom version of the class.
+
+If we end up with, say, half of the class unable to attend, I won't be able to talk with everyone individually, so we may be forced into having some of our discussions virtually, and you may end up building stuff in isolation, but this class will not turn into a lecture-over-zoom class.
+
 ## Project calendar
 
 | Week | Date  | Lecture                                    | Due dates (bring project to class, upload documentation by midnight after class)|
