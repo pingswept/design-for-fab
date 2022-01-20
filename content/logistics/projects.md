@@ -6,39 +6,6 @@ draft: false
 
 --------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2022! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
 
-# P6: New world, new problems
-
-The requirements for prosperous life on our planet have changed with the arrival of COVID-19\. One of our responsibilities as engineers is to identify and explore emergent problem spaces. With COVID-19, some of the new problems are obvious-- we need more masks that can filter out virus particles and ventilators that can help the sick breathe. Some of the new problems are less obvious, relating to longer term changes to our behavior as a society. For example, shared transportation (cars, buses, trains) may change dramatically.
-
-Design a mechanical or electro-mechanical system with the following characteristics:
-
-1.  it addresses a new problem brought on by COVID-19, and
-2.  it can plausibly be fabricated and sold in the likely economic climate.
-
-Instead of our usual process of prototyping and iterative fabrication, we'll have slightly different milestones; the deadlines are listed at the bottom.
-
-For the first stage, you should generate no fewer than 20 ideas. "What, 20 ideas! That's madness!" you yell at the ceiling. But no, it is important. When you generate surplus ideas, you force yourselves to go beyond your initial conception of the problem space. Some of the ideas will be useless, but a useless idea can often lead the way to a fruitful one. Please post your list of 20 ideas as a numbered list on the [#inventive-design](https://nolop.slack.com/app_redirect?channel=inventive-design) Slack channel. Each idea should have as short a description as possible while still being comprehensible. Once the ideas are posted, please give 6 of your peers feedback in the comments.
-
-For the second stage, narrow down to one idea that you would like to pursue. You do not have to post anything or notify anyone about your selection, but you should really decide, or you won't have time for the next stage.
-
-For the third stage, post on the [#inventive-design](https://nolop.slack.com/app_redirect?channel=inventive-design) Slack channel a list of 3-5 design requirements for your device. They should generally be quantifiable metrics, though normative characteristics (like, "the machine should be bright colored") are okay for non-quantifiable features. Let me add that this might _seem_ like a bunch of malarkey, it is repeatedly the case that omitted or erroneous design requirements are the eternal nemesis of new designs. Like, that's nice that you want to make a mask to filter out viruses-- how fine does your filter need to be so you're not just trying to stop water with a net? There can be no magic solutions here.
-
-The fourth stage is conventional: make a CAD model and post it to the [#inventive-design](https://nolop.slack.com/app_redirect?channel=inventive-design) Slack channel. Once the ideas are posted, please give 6 of your peers feedback in the comments.
-
-The last stage is mostly conventional: revise your CAD model, repost, and please give feedback to your peers. As part of your final design, please estimate the cost of fabrication of your device.
-
-### Milestones
-
-P6 twenty ideas: Tuesday, April 7, by noon.
-
-P6 one idea: Thursday, April 9, by noon.
-
-P6 requirements: Tuesday, April 14, by noon.
-
-P6 design review: Thursday, April 16, by noon.
-
-P6 final design: Thursday, April 23, by noon.
-
 # P5: Element of a 22-piece kinetic art installation
 
 Build a 11" x 16" panel that has the following characteristics:
@@ -118,7 +85,7 @@ The goal here is not to make a missile weapon, but to control a large force from
 
 ### You will be given:
 
-*  1 ball bearing, 22 mm OD, 8 mm ID, part number 608RS
+*  1 ball bearing, 22 mm OD, 8 mm ID, 7 mm width, part number 608RS
 *  1 socket head cap screw, M8 x 1.25 mm, 30 mm length (McMaster [91290A434](https://www.mcmaster.com/91290A434/))
 *  1 M8 x 1.25 mm nut (McMaster [91828A410](https://www.mcmaster.com/91828A410/))
 *  2 M8 washers (McMaster [98689A116](https://www.mcmaster.com/98689A116/))
