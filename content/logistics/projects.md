@@ -119,9 +119,9 @@ The goal here is not to make a missile weapon, but to control a large force from
 ### You will be given:
 
 *  1 ball bearing, 22 mm OD, 8 mm ID, part number 608RS
-*  1 socket head cap screw, M8 x 1.25 mm, 30 mm length
-*  1 M8 x 1.25 mm nut
-*  2 M8 washers
+*  1 socket head cap screw, M8 x 1.25 mm, 30 mm length (McMaster [91290A434](https://www.mcmaster.com/91290A434/))
+*  1 M8 x 1.25 mm nut (McMaster [91828A410](https://www.mcmaster.com/91828A410/))
+*  2 M8 washers (McMaster [98689A116](https://www.mcmaster.com/98689A116/))
 *  1 rubber band, size 64
 *  1 plastic ball, 12 mm in diameter
 *  Various bolts and washers, available in the gray drawers in Nolop
