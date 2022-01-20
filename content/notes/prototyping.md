@@ -11,7 +11,7 @@ Lurking in this conception is a trap that you should avoid, a trap that is parti
 
 But that's not right. Here, look at this picture I painted for you.
 
-![](img/prototyping-watercolor.jpg)
+![](/img/prototyping-watercolor.jpg)
 
 This is what prototyping is like. You're trying to get the wagon to the promised land where the treasure is buried under a big red X. You might be able to drag the wagon across the two bridges. You might be able to go through that tunnel in the mountains. Maybe you can squeeze between the sand dunes and the volcanoes.
 
@@ -41,7 +41,4 @@ Here are some more examples.
 
 Also, here's a watercolor my daughter made for you.
 
-![](img/prototyping-watercolor-ada.jpg)
-
-<footer>[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).</footer>
+![](/img/prototyping-watercolor-ada.jpg)
