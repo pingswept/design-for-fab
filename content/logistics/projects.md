@@ -75,6 +75,16 @@ You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
 Prototype due: Tuesday, January 28, at the start of class. The prototype should test the mechanism, but need not be sealed up.
 
 Project due: Tuesday, February 4, at the start of class.
+
+# PX: Wind-powered car
+
+Build a small vehicle (less than 40 cm long) that can drive upwind without any source of energy other than the wind. We will use a fan for testing.
+
+A few guidelines to help your learning:
+
+*  Lego gears are prohibited. You can use other Legos (wheels or whatever) if you want.
+*  If you are going to 3D print a propeller or turbine blades, they should be entirely of your own design.
+
 -->
 
 # P1: Build a trigger mechanism
