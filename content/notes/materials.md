@@ -17,13 +17,6 @@ When you're in school, you have relatively limited resources. Here are a few fam
 
 Once you get to industry, you have more choices-- LOTS MORE.
 
-![](/img/material-samples-metal.jpg)
-![](/img/material-samples-wood.jpg)
-![](/img/material-samples-plastic.jpg)
-![](/img/yield-strength.jpg)
-![](/img/yield-vs-mass.jpg)
-![](/img/yield-vs-cost.jpg)
-
 ## Aluminum
 
 There are at least 530 different aluminum alloys. For only $150, you can buy the ANSI H35.1 standard and read all 12 pages (includes appendix).
@@ -81,3 +74,17 @@ Generally, the last two digits of the alloy designation are the carbon concentra
 |     M2     | Machine tool cutters |
 |     O1     | Oil hardening        |
 |     S2     | Shock resistant      |
+
+## Materials gallery
+
+Here's what these materials look like.
+
+![](/img/material-samples-metal.jpg)
+![](/img/material-samples-wood.jpg)
+![](/img/material-samples-plastic.jpg)
+
+## Yield strength tradeoffs
+
+![](/img/yield-strength.jpg)
+![](/img/yield-vs-mass.jpg)
+![](/img/yield-vs-cost.jpg)
