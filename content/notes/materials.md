@@ -89,7 +89,7 @@ Here's what these materials look like.
 ![](/img/yield-vs-mass.jpg)
 ![](/img/yield-vs-cost.jpg)
 
-Notes on material usage, based on notes taken by Ananya Ram (thanks!)
+## Notes on material usage, based on notes taken by Ananya Ram (thanks!)
 
 ### Plastics:
 
