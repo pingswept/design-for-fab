@@ -88,3 +88,43 @@ Here's what these materials look like.
 ![](/img/yield-strength.jpg)
 ![](/img/yield-vs-mass.jpg)
 ![](/img/yield-vs-cost.jpg)
+
+Notes on material usage, based on notes taken by Ananya Ram (thanks!)
+
+### Plastics:
+
+* LDPE → milk jug material, cheap
+* HDPE → stronger, terrible for the environment, can’t really be machined
+* MDPE → recycled material, still terrible for the environment
+* Polycarb sheet → like acrylic, but can absorb a lot of energy (high energy toughness)
+* Acrylic → can’t machine because it shatters~~
+* Delrin → optimized for machining
+* Nylon → super strong plastic, some are stronger than steel
+
+### Composites
+
+* Fiberglass → boats, super stiff
+* Carbon fiber → also super strong, $$,
+
+### Woods: good for lightweight structures
+
+* Pine → cheapest, lightest, crappiest material
+* Cedar → even lighter than pine, eh about everything else. Smells good briefly...
+* Fir → Pine 2.0, stiff, tables and long-term stuff
+* Mahogany → looks nice, fancy furniture
+* Maple → hard, for cutting board
+* Red Oak → heavier means stronger, and it’s very strong, good for floors
+* Baltic Birch Plywood → plywood = alternating grain
+* Purple Heart → one of the densest woods that you can just buy
+
+### Metals, usually alloys:
+
+* Copper → thermally conductive, expensive, not an alloy
+* 1018 Steel → crappy steel, still expensive (nice but heavy)
+* Stainless Steel 304 → same as mild steel, non-magnetic, doesn’t rust (nice but heavy)
+* A2 Tool Steel → air-hardened steel, very uniform, used for knives (nice but heavy)
+* 6061 Aluminum → cheapest aluminum engineers use
+* 5052 Aluminum → easily formed or welded
+* 2024 Aluminum → used for airplanes etc. extra stiff allow
+* Brass → copper + zinc(?); mostly used for aesthetic
+* Titanium → $84, stiffest material
