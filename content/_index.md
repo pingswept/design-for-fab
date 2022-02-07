@@ -30,8 +30,8 @@ If we end up with, say, half of the class unable to attend, I won't be able to t
 |  3   | 2/1   | Holes and fasteners                        | [P1 final](/logistics/projects)                                                 |
 |      | 2/3   | Engineering material choices               |                                                                                 |
 |  3   | 2/8   |                                            | [P1 reloaded](/logistics/projects)                                              |
-|      | 2/10  | Joining shafts, Preloading ball bearings   | P2 proto                                                                        |
-|  4   | 2/15  |                                            | P2 final                                                                        |
+|      | 2/10  | Joining shafts, Preloading ball bearings   | [P2 proto](/logistics/projects/#p2-build-a-wind-powered-car)                    |
+|  4   | 2/15  |                                            | [P2 final](/logistics/projects/#p2-build-a-wind-powered-car)                    |
 |      | 2/17  | Gears: spur/helical, bevel, worm           |                                                                                 |
 |  5   | 2/22  |                                            | P3 proto                                                                        |
 |      | 2/24  | NO CLASS (Monday schedule)                 |                                                                                 |
