@@ -76,16 +76,25 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 
 Project due: Tuesday, February 4, at the start of class.
 
-# PX: Wind-powered car
+-->
 
-Build a small vehicle (less than 40 cm long) that can drive upwind without any source of energy other than the wind. We will use a fan for testing.
+# P2: Build a wind-powered car
+
+Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
 
 A few guidelines to help your learning:
 
-*  Lego gears are prohibited. You can use other Legos (wheels or whatever) if you want.
-*  If you are going to 3D print a propeller or turbine blades, they should be entirely of your own design.
+* On the final vehicle, Lego gears are prohibited. You can use other Legos (wheels or whatever) if you want, but no Lego gears. This is to encourage you to learn how to design a gear, if you want to use gears. For prototyping, anything goes.
+* If your design uses a propeller, do not 3D print a propeller, unless it is entirely of your own design. This is to encourage you to learn how to design a propeller.
+* Your vehicle does NOT have to be a car. Wheels are cool, but other methods could also work, depending on your goals. 
 
--->
+### P2 due dates
+
+P2 learning goals: Tuesday, February 8, 11:59 PM on Canvas.
+
+P2 proto: Thursday, February 10, at the start of class.
+
+P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
 # P1: Build a trigger mechanism
 
