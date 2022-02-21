@@ -80,12 +80,20 @@ Project due: Tuesday, February 4, at the start of class.
 
 # P3: Make a puzzle ball
 
-In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](https://www.spinmaster.com/en-US/brands/spin-master-games/perplexus-epic/). Your puzzle should contain a total of 15 puzzle stages. Each team member should fabricate 5 stages; each person's stages don't have to be contiguous.
+In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](https://www.spinmaster.com/en-US/brands/spin-master-games/perplexus-epic/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous.
 
 You will be given:
 
-* 2 steel balls: [McMaster 1598K31](https://www.mcmaster.com/1598K31/)
+* 2 steel balls, 9 mm in diameter: [McMaster 1598K31](https://www.mcmaster.com/1598K31/)
 * 1 transparent plastic ball, approximate inner diameter 195 mm
+
+Restrictions:
+
+* Do not alter the big plastic balls. **Do not drill holes in them or glue things to them.** (This is for two reasons: I want to reuse them next year, but also, if you glue stuff in, you will very, very likely regret it. You need to be able to assemble, test, and then iterate. Adhesives do not iterate.)
+
+Prototype due: Tuesday, March 1, at the start of class.
+
+Project due: Tuesday, March 8, at the start of class.
 
 # P2: Build a wind-powered car
 
