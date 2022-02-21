@@ -31,13 +31,13 @@ If we end up with, say, half of the class unable to attend, I won't be able to t
 |      | 2/3   | Engineering material choices               |                                                                                 |
 |  3   | 2/8   |                                            | [P1 reloaded](/logistics/projects)                                              |
 |      | 2/10  | Joining shafts, Preloading ball bearings   | [P2 proto](/logistics/projects/#p2-build-a-wind-powered-car)                    |
-|  4   | 2/15  |                                            | [P2 final](/logistics/projects/#p2-build-a-wind-powered-car)                    |
-|      | 2/17  | Gears: spur/helical, bevel, worm           |                                                                                 |
-|  5   | 2/22  |                                            | P3 proto                                                                        |
+|  4   | 2/15  | Gears: spur/helical, bevel, worm           | [P2 final](/logistics/projects/#p2-build-a-wind-powered-car)                    |
+|      | 2/17  | Shaft connections                          | [P2 final for real](/logistics/projects/#p2-build-a-wind-powered-car)           |
+|  5   | 2/22  |                                            |                                                                                 |
 |      | 2/24  | NO CLASS (Monday schedule)                 |                                                                                 |
-|  6   | 3/1   | Flexure design                             |                                                                                 |
-|      | 3/3   |                                            | P3 final                                                                        |
-|  7   | 3/8   | Fasteners and fasteners I hate             |                                                                                 |
+|  6   | 3/1   | Flexure design                             | [P3 proto](/logistics/projects/#p3-make-a-puzzle-ball)                          |
+|      | 3/3   |                                            |                                                                                 |
+|  7   | 3/8   | Fasteners and fasteners I hate             | [P3 final](/logistics/projects/#p3-make-a-puzzle-ball)                          |
 |      | 3/10  | Belts, chains, wire rope                   |                                                                                 |
 |  8   | 3/15  | Knots: how to tie them                     |                                                                                 |
 |      | 3/17  |                                            | P4 proto                                                                        |
