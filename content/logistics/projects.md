@@ -76,6 +76,10 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 
 Project due: Tuesday, February 4, at the start of class.
 
+# P3: build a thing
+
+sphere with an interior diameter of roughly 195 mm
+
 -->
 
 # P2: Build a wind-powered car
