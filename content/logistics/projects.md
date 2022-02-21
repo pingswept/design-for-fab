@@ -76,11 +76,16 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 
 Project due: Tuesday, February 4, at the start of class.
 
-# P3: build a thing
-
-sphere with an interior diameter of roughly 195 mm
-
 -->
+
+# P3: Make a puzzle ball
+
+In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](https://www.spinmaster.com/en-US/brands/spin-master-games/perplexus-epic/). Your puzzle should contain a total of 15 puzzle stages. Each team member should fabricate 5 stages; each person's stages don't have to be contiguous.
+
+You will be given:
+
+* 2 steel balls: [McMaster 1598K31](https://www.mcmaster.com/1598K31/)
+* 1 transparent plastic ball, approximate inner diameter 195 mm
 
 # P2: Build a wind-powered car
 
