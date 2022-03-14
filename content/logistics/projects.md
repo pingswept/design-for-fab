@@ -70,9 +70,19 @@ With a partner, build a gravity-powered record player. It should be able to play
 *   4 or 5 steel needles
 *   As many bricks as you request, within reason
 
+Please set your learning goals for the project on Canvas as soon as you have time.
+
+### A few pieces of advice
+
+As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
+
+You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
+
+For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place.
+
 P4 proto: Thursday, March 31, at the start of class. The record should spin under gravity power by this date.
 
-P4 final: Thursday, March 7, at the start of class.
+P4 final: Thursday, April 7, at the start of class.
 
 # P3: Make a puzzle ball
 
