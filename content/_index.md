@@ -44,9 +44,9 @@ If we end up with, say, half of the class unable to attend, I won't be able to t
 |  9   | 3/22  | SPRING BREAK                               |                                                                                 |
 |      | 3/24  | SPRING BREAK                               |                                                                                 |
 |  10  | 3/29  | Belts, chains, wire rope                   |                                                                                 |
-|      | 3/31  |                                            | P4 proto                                                                        |
+|      | 3/31  |                                            | [P4 proto](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player)|
 |  11  | 4/5   | Flexure design                             |                                                                                 |
-|      | 4/7   |                                            | P4 final                                                                                |
+|      | 4/7   |                                            | [P4 final](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player)|
 |  12  | 4/12  |                                            |                                                                                 |
 |      | 4/14  |                                            |                                                                                 |
 |  13  | 4/19  |                                            |                                                                                 |
