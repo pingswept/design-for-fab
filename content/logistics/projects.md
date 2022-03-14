@@ -31,24 +31,6 @@ P5 proto: Tuesday, March 24, at the start of class.
 
 P5 final: Tuesday, March 31, at the start of class.
 
-# P4: Gravity-powered record player
-
-With your partner, build a gravity-powered record player. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use folded sheet metal, cardboard, or the like. You might make a trigger mechanism that would start the record playing.
-
-### You will be given:
-
-*   1 vinyl record
-*   4 or 5 steel needles
-*   As many bricks as you request, within reason
-
-P4 design calculations: Thursday, February 13, at the start of class.
-
-P4 design review: Tuesday, February 18, at the start of class.
-
-P4 proto: Tuesday, February 25, at the start of class. The record should spin under gravity power by this date.
-
-P4 final: Tuesday, March 3, at the start of class.
-
 # P3: Folded mask or costume
 
 Make a 3D folded mask or costume. It need not be laser-cut, but you must make a CAD model that shows the mask or costume in its folded and unfolded states. It should not be traced from an existing design of picture (unless you also drew the picture). It can cover just your face, or your whole head, but it should be 3 dimensional. It can be made of anything that folds: chipboard, thick paper, thin sheet metal, or anything else you can get. Ancillary decorations, like mustaches, are okay, but the core of the mask should be folded. It should be secured to your head somehow, so you can actually wear it.
@@ -77,6 +59,20 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 Project due: Tuesday, February 4, at the start of class.
 
 -->
+
+# P4: Gravity-powered record player
+
+With a partner, build a gravity-powered record player. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use folded sheet metal, cardboard, or the like. You might make a trigger mechanism that would start the record playing.
+
+### You will be given:
+
+*   1 vinyl record
+*   4 or 5 steel needles
+*   As many bricks as you request, within reason
+
+P4 proto: Thursday, March 31, at the start of class. The record should spin under gravity power by this date.
+
+P4 final: Thursday, March 7, at the start of class.
 
 # P3: Make a puzzle ball
 
