@@ -30,23 +30,23 @@ If we end up with, say, half of the class unable to attend, I won't be able to t
 |  3   | 2/1   | Holes and fasteners                        | [P1 final](/logistics/projects)                                                 |
 |      | 2/3   | Engineering material choices               |                                                                                 |
 |  3   | 2/8   |                                            | [P1 reloaded](/logistics/projects)                                              |
-|      | 2/10  | Joining shafts, Preloading ball bearings   | [P2 proto](/logistics/projects/#p2-build-a-wind-powered-car)                    |
+|      | 2/10  | Joining shafts                             | [P2 proto](/logistics/projects/#p2-build-a-wind-powered-car)                    |
 |  4   | 2/15  | Gears: spur/helical, bevel, worm           | [P2 final](/logistics/projects/#p2-build-a-wind-powered-car)                    |
-|      | 2/17  | Shaft connections                          | [P2 final for real](/logistics/projects/#p2-build-a-wind-powered-car)           |
+|      | 2/17  |                                            | [P2 final for real](/logistics/projects/#p2-build-a-wind-powered-car)           |
 |  5   | 2/22  |                                            |                                                                                 |
 |      | 2/24  | NO CLASS (Monday schedule)                 |                                                                                 |
-|  6   | 3/1   | Flexure design                             | [P3 proto](/logistics/projects/#p3-make-a-puzzle-ball)                          |
+|  6   | 3/1   |                                            | [P3 proto](/logistics/projects/#p3-make-a-puzzle-ball)                          |
 |      | 3/3   |                                            |                                                                                 |
 |  7   | 3/8   | Fasteners and fasteners I hate             | [P3 final](/logistics/projects/#p3-make-a-puzzle-ball)                          |
-|      | 3/10  | Belts, chains, wire rope                   |                                                                                 |
-|  8   | 3/15  | Knots: how to tie them                     |                                                                                 |
-|      | 3/17  |                                            | P4 proto                                                                        |
+|      | 3/10  | Ethical dilemmas                           |                                                                                 |
+|  8   | 3/15  | Preloading ball bearings                   |                                                                                 |
+|      | 3/17  | Knots: how to tie them                     |                                                                                 |
 |  9   | 3/22  | SPRING BREAK                               |                                                                                 |
 |      | 3/24  | SPRING BREAK                               |                                                                                 |
-|  10  | 3/29  |                                            |                                                                                 |
-|      | 3/31  |                                            | P4 final                                                                        |
-|  11  | 4/5   | Discriminatory design                      |                                                                                 |
-|      | 4/7   |                                            |                                                                                 |
+|  10  | 3/29  | Belts, chains, wire rope                   |                                                                                 |
+|      | 3/31  |                                            | P4 proto                                                                        |
+|  11  | 4/5   | Flexure design                             |                                                                                 |
+|      | 4/7   |                                            | P4 final                                                                                |
 |  12  | 4/12  |                                            |                                                                                 |
 |      | 4/14  |                                            |                                                                                 |
 |  13  | 4/19  |                                            |                                                                                 |
