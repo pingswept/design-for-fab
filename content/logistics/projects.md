@@ -82,7 +82,7 @@ For most of you, the major challenge of the project will be figuring out how to 
 
 P4 proto: Thursday, March 31, at the start of class. The record should spin under gravity power by this date.
 
-P4 final: Thursday, April 7, at the start of class.
+P4 final: Tuesday, April 12, at the start of class. (Was previously April 7.)
 
 # P3: Make a puzzle ball
 
