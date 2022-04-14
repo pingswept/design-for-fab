@@ -58,15 +58,18 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 
 Project due: Tuesday, February 4, at the start of class.
 
-# P5: Human-powered transporter
+-->
+# P5: Human-powered vehicle
 
 Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. The vehicle should have the following qualities:
 
-1. It is powered entirely by 1 or more of your team members.
-2. It can carry a passenger weighing around 180 pounds to the destination without damaging them.
+1. It is piloted and powered entirely by 1 or more of your team members.
+2. It can carry a passenger (one of your team members) to the destination without damaging them.
 3. It makes traversing the course easier than dragging the passenger or carrying them like a backpack.
 4. While traveling, nobody onboard the vehicle should touch the ground.
 5. The vehicle should not require unusual balance or skill to pilot (no unicycles, pogo sticks, unstable monstrosities).
+
+![The challenge course](/img/challenge-course.png)
 
 As usual, you should develop 1-3 learning goals for the project, in the usual format on Canvas. My goal is to give you the opportunity to work on an engineering challenge that is physically larger and likely involves higher forces than the smaller, desktop projects we've done so far.
 
@@ -80,8 +83,6 @@ As usual, you should develop 1-3 learning goals for the project, in the usual fo
 Tuesday, April 19, 10:30 AM: show the class a drawing of your vehicle.
 Thursday, April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
 May 9, 3:30 PM: final trials on the course. We will invite a crowd.
-
--->
 
 # P4: Gravity-powered record player
 
