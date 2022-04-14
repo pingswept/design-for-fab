@@ -62,19 +62,20 @@ Project due: Tuesday, February 4, at the start of class.
 
 Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. The vehicle should have the following qualities:
 
-1. It is powered entirely by 1 or more of your team members. Your team is limited to 4 students in the class.
+1. It is powered entirely by 1 or more of your team members.
 2. It can carry a passenger weighing around 180 pounds to the destination without damaging them.
-3. While traveling nobody onboard the vehicle should touch the ground.
+3. While traveling, nobody onboard the vehicle should touch the ground.
 4. The vehicle should not require unusual balance or skill to pilot (no unicycles, pogo sticks, unstable monstrosities).
 
 ### Resources
 
-1. Your team must spend at least $100. To order stuff, post a message in the #designforfab channel in the Nolop Slack workspace. Brandon will order whatever you ask for. The upper limit is $150ish. You are welcome to buy more stuff if you want.
-2. 2x3 lumber will be available in the Nolop store for around $5/8 ft. Also, some plywood, 1/4", $5 per 2x4 ft panel. We also have lots of aluminum framing.
+1. Your team must spend at least $100 of Tufts' money. To order stuff, post a message in the #designforfab channel in the Nolop Slack workspace. Brandon will order whatever you ask for. The upper limit is $150ish. You are welcome to buy more stuff if you want.
+2. 2x3 lumber will be available in the Nolop store for around $5/8 ft. Also, some plywood, 1/4", $10 per 2x4 ft panel. We also have lots of aluminum framing.
 
 ### Trials / due date
 
-April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
+Tuesday, April 19, 10:30 AM: show the class a drawing of your vehicle.
+Thursday, April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
 May 9, 3:30 PM: final trials on the course. We will invite a crowd.
 
 -->
