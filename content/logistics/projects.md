@@ -80,9 +80,9 @@ As usual, you should develop 1-3 learning goals for the project, in the usual fo
 
 ### Trials / due date
 
-Tuesday, April 19, 10:30 AM: show the class a drawing of your vehicle.
-Thursday, April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
-May 9, 3:30 PM: final trials on the course. We will invite a crowd.
+* Tuesday, April 19, 10:30 AM: show the class a drawing of your vehicle.
+* Thursday, April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
+* May 9, 3:30 PM: final trials on the course. We will invite a crowd.
 
 # P4: Gravity-powered record player
 
