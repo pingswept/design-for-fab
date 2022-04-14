@@ -61,7 +61,9 @@ Project due: Tuesday, February 4, at the start of class.
 -->
 # P5: Human-powered vehicle
 
-Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. The vehicle should have the following qualities:
+Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. You start at the green line and end at the green star.
+
+The vehicle should have the following qualities:
 
 1. It is piloted and powered entirely by 1 or more of your team members.
 2. It can carry a passenger (one of your team members) to the destination without damaging them.
