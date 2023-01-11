@@ -19,9 +19,9 @@ The goal of the course is to force students to gain experience with the practica
 
 [Brandon Stafford](https://nolop.org/brandon-stafford/), brandon.stafford@tufts.edu
 
-## Course assistant
+## Learning assistant
 
-There is no course assistant.
+Emily Kostolansky
 
 ## Office hours
 
