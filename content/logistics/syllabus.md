@@ -9,7 +9,7 @@ ME 93, Design for Fabrication, Section DF-LEC, class number 23803
 
 ## Course description
 
-Explore design thinking through a series of practical design challenges, coupled with design review by your peers and the instructor. Over the course of the semester, you will face approximately six challenges that require you, sometimes alone, sometimes as a team, to design, prototype, and fabricate working solutions. Emphasis will be placed on understanding real-world design constraints resulting from different fabrication methods, hardware selection, and material properties. An effort will be made to allow students to pursue areas of personal interest, such as mechanisms, embedded electronics, or robotics, in the context of the design challenges. **Students with scant interest in fabrication are encouraged to enroll in other courses.** The course will have no textbook, but there will be some expenses for materials incurred.
+Explore design thinking through a series of practical design challenges, coupled with design review by your peers and the instructor. Over the course of the semester, you will face approximately five challenges that require you, sometimes alone, sometimes as a team, to design, prototype, and fabricate working solutions. Emphasis will be placed on understanding real-world design constraints resulting from different fabrication methods, hardware selection, and material properties. An effort will be made to allow students to pursue areas of personal interest, such as mechanisms, embedded electronics, or robotics, in the context of the design challenges. **Students with scant interest in fabrication are encouraged to enroll in other courses.** The course will have no textbook, but there will be some expenses for materials incurred.
 
 ## Course goals
 
@@ -27,7 +27,8 @@ There is no course assistant.
 
 Brandon's office hours are:
 
-* (We will decide on this in the first week.)
+* All day in Nolop
+* Generally, I leave Nolop at 2:15 on Mondays, 4:15 on Tuesdays, 5:15 on Wednesdays and Thursdays, and 6:15 on Fridays.
 
 ## Textbooks
 
@@ -43,9 +44,9 @@ Generally, I need too much of your attention to allow distractions like cell pho
 
 ## Lectures
 
-Tu, Th 10:30-11:45 AM in [Blake](http://campusmaps.tufts.edu/medford/#fid=205), the Science and Engineering Complex, 200 College Avenue, 1st floor, [Room 22, also called "Blake-Perlman Computational Studio" or "that glass room next to the cafe in the SEC."](http://engineering.tufts.edu/computing/facilities/blake)
+Tu, Th 10:30-11:45 AM in Anderson 309
 
-Project work will take place in Blake, in [Nolop](https://nolop.org/), and in [Bray Lab](https://sites.tufts.edu/bray/).
+Project work will take place in [Nolop](https://nolop.org/) and [Bray Lab](https://sites.tufts.edu/bray/).
 
 ## Financial constraints
 
@@ -66,12 +67,6 @@ The Department of Mechanical Engineering will cover $1000 for the class as a who
 ## Project storage
 
 During the semester, you will be allocated a storage shelf in Bray, Nolop, or Blake where you can keep your projects and related materials. After the semester ends, either you can take your device back to your dorm room, or I will lovingly place it in the dumpster for you on May 10th (the day after our final showcase).
-
-## Materials and other resources available
-
-In addition to your project budget, we will have prototyping materials available for you to use. These will include foamcore, cardboard, lots of pink and blue foam, acrylic and aluminum. Most of this will be available in Bray or Nolop.
-
-For those of you thinking about electromechanical solutions, I have a large collection of microcontrollers and sensors used for my electronics class; I'm happy to share that stuff as well.
 
 ## A note about general resourcefulness
 
