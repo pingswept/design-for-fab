@@ -66,7 +66,7 @@ The Department of Mechanical Engineering will cover $1000 for the class as a who
 
 ## Project storage
 
-During the semester, you will be allocated a storage shelf in Bray, Nolop, or Blake where you can keep your projects and related materials. After the semester ends, either you can take your device back to your dorm room, or I will lovingly place it in the dumpster for you on May 10th (the day after our final showcase).
+During the semester, you can store stuff in Nolop, as usual. After the semester ends, either you can take your device back to your dorm room, or I will lovingly place it in the dumpster for you on May 9th (the day after our final showcase).
 
 ## A note about general resourcefulness
 
