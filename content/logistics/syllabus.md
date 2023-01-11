@@ -5,7 +5,7 @@ draft: false
 
 # Design for Fabrication syllabus
 
-ME 93, Design for Fabrication, Section DF-LEC, class number 23803
+ME 93, Design for Fabrication, Section DF-LEC, class number 23241
 
 ## Course description
 
