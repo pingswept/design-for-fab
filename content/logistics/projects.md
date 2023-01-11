@@ -4,7 +4,7 @@ draft: false
 ---
 <!--
 
---------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2022! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
+--------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020-22! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2023! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
 
 # P5: Element of a 22-piece kinetic art installation
 
@@ -58,7 +58,6 @@ Prototype due: Tuesday, January 28, at the start of class. The prototype should 
 
 Project due: Tuesday, February 4, at the start of class.
 
--->
 # P5: Human-powered vehicle
 
 Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. You start at the green line and end at the green star.
@@ -145,11 +144,16 @@ P2 proto: Thursday, February 10, at the start of class.
 
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
-# P1: Build a trigger mechanism
+-->
+# P1: Build a mechanical car launcher
 
-Make a trigger mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth).
+Design, prototype, and refine a mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth) to launch a toy car off a jump.
 
-The goal here is not to make a missile weapon, but to control a large force from a rubber band with a small force from your finger.
+The goal here is threefold: 
+
+1. control a large force from a rubber band with a small force from your finger
+2. learn how to build a smooth mechanism
+3. actually launch toy cars off a jump
 
 ### You will be given:
 
@@ -158,7 +162,7 @@ The goal here is not to make a missile weapon, but to control a large force from
 *  1 M8 x 1.25 mm nut (McMaster [91828A410](https://www.mcmaster.com/91828A410/))
 *  2 M8 washers (McMaster [98689A116](https://www.mcmaster.com/98689A116/))
 *  1 rubber band, size 64
-*  1 plastic ball, 12 mm in diameter
+*  1 toy car for propulsion
 *  Various bolts and washers, available in the gray drawers in Nolop
 *  Various brass heat-set inserts, available in the orange cabinet in Nolop
 *  Various washers, available in the gray drawers in Nolop
