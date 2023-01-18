@@ -31,4 +31,4 @@
 |      | 4/27  | Last class, life talk                      |                                                                        |
 | (16) | 5/2   | Reading period                             |                                                                        |
 |      | 5/4   | Reading period                             |                                                                        |
-| (17) | 5/8   | MONDAY NOT TUESDAY                         | [P6 showcase, 3:30-5:30 PM](http://designforfab.com/logistics/projects)|
+| (17) | 5/8   | MONDAY NOT TUESDAY                         | [P6 showcase, 3:30-5:30 PM]                                            |
