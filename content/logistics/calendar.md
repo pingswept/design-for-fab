@@ -1,24 +1,24 @@
 | Week | Date  | Lecture                                    | Hands-on                      | What to study                                                            | Due dates                                                     |
 |:----:|:-----:|--------------------------------------------|-------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------|
 |  1   | 1/19  |     |              |  |          |
-|  2   | 1/24  | Voltage dividers, voltage regulators, capacitors    | Project 1 start             |      | [P0](http://andnowforelectronics.com/logistics/projects/#project-0-power-an-led-with-wall-power-through-our-dc-power-supply-control-it-with-a-push-button) |
-|      | 1/26  | Voltage regulators, Kicad |  Debug your voltage regulator   | [Voltage regulators](http://andnowforelectronics.com/notes/voltage-regulation/); [Videos for P1](http://andnowforelectronics.com/notes/demo-videos/#videos-for-project-1); Kicad resources  |     |
-|  3   | 1/31  | PCB design, power                     | Kicad Demo    | [PCB design](http://andnowforelectronics.com/notes/pcb/); Kicad resources    |  |
-|      | 2/2   | More Kicad                     | Kicad practice/Q&A       | [Low power/high power](http://andnowforelectronics.com/notes/low-power-high-power/) |         |
-|  4   | 2/7   | Transistors as switches      |  Make a switch with a BJT    |                              |[P1 PCB](http://andnowforelectronics.com/logistics/projects/#project-1-build-a-breadboard-power-supply)|
-|      | 2/9   | DC motors, MOSFETs, P2 intro             | Measure motors; Run a motor with a MOSFET                |     |                                                               |
-|  5   | 2/14  | H-bridges                                  | Start building an H-bridge    |  |                                                               |
-|      | 2/16  | Soldering demo, more H-bridge details     | More H-bridge work            |    making-a-good-solder-joint)                                                                      |                                                       |
-|  6   | 2/21  | Motor measurement    |                               |                                                                          |[P2 proto](http://andnowforelectronics.com/logistics/projects/#project-2-build-an-h-bridge-motor-controller)|
-|      | 2/23  | Debugging strategies, PCB fabrication, P2.5 intro       | P1 PCB test             |    Solder components to your P1 PCB and bring to class                                                                     |      |
-|  7   | 2/28  | Microcontrollers     | Feather set-up    | [Feather hardware](http://andnowforelectronics.com/notes/feather-rp2040-hardware/)     |[P2 PCB](http://andnowforelectronics.com/logistics/projects/#project-2-build-an-h-bridge-motor-controller) |
-|      | 3/2   | Digital and analog I/O hardware            | Feather challenges    |    |                                                               |
-|  8   | 3/7   |  PWM for motor control                   | Feather challenges, cont'd       | [Feather programming](http://andnowforelectronics.com/notes/feather-programming/)   |       |
-|      | 3/9   | P2.5 testing; P3 intro                   |                               |                                        |                                                      |
-|  9   | 3/14  | Stepper motors                  | P2 PCB test; P3 learning goals              |                                                                          |                                                               |
-|      | 3/16  | I2C, SPI, serial; State machines                      |                     |                                       |                                                       |
-|  10  | 3/21  | No class: spring break                           |                               |     |    [Pre-class reading](https://canvas.tufts.edu/courses/40094/assignments/287435)                                                           |
-|      | 3/23  | No class: spring break                 |                               |                                                                          |                                                               |
+|  2   | 1/24  |                                            |
+|      | 1/26  |                                            |
+|  3   | 1/31  |                                            |
+|      | 2/2   |                                            |
+|  4   | 2/7   |                                            |
+|      | 2/9   |                                            |
+|  5   | 2/14  |                                            |
+|      | 2/16  |                                            |
+|  6   | 2/21  |                                            |
+|      | 2/23  |                                            |
+|  7   | 2/28  |                                            |
+|      | 3/2   |                                            |
+|  8   | 3/7   |                                            |
+|      | 3/9   |                                            |
+|  9   | 3/14  |                                            |
+|      | 3/16  |                                            |
+|  10  | 3/21  |                                            |
+|      | 3/23  |                                            |
 |  11  | 3/28  | P3 demo day                  |                               |                                                                          | [P3 final](http://andnowforelectronics.com/logistics/projects/#project-3-build-an-electromechanical-game) |
 |      | 3/30  | Raspberry Pi intro                   |  Booting the Raspberry Pi        |                                                                           |                                                      |
 |  12  | 4/4   | Project 4 intro                          | P4 learning goals; Pi challenges |  [Raspberry Pi challenges](http://andnowforelectronics.com/notes/pi-challenges/)     |    Raspberry Pi setup check on Canvas         |
