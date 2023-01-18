@@ -29,4 +29,4 @@
 |  14  | 12/6  | P4 demo day                 |                               |                                                                          |   [P4 final](http://andnowforelectronics.com/logistics/projects)       |
 |      | 12/8  | Last class, jobs talk                      |                               |                                           |         |
 | (15) | 12/13 |                                   |                               |                                              |                                       |
-|    | 12/15 |   (Finals start)        |                               |                                                                          |[P5 showcase, 12-2pm](http://andnowforelectronics.com/logistics/projects)|
+|    | 5/8 |   (Finals start)        |                               |                                                                          |[P5 showcase, 3:30-5:30 PM](http://andnowforelectronics.com/logistics/projects)|
