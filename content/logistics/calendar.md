@@ -1,8 +1,8 @@
 | Week | Date  | Lecture                                    | Due dates                                                              |
 |:----:|:-----:|--------------------------------------------|------------------------------------------------------------------------|
 |  1   | 1/19  |                                            |                                                                        |
-|  2   | 1/24  |                                            |                                                                        |
-|      | 1/26  |                                            |                                                                        |
+|  2   | 1/24  |                                            | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
+|      | 1/26  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |  3   | 1/31  |                                            |                                                                        |
 |      | 2/2   |                                            |                                                                        |
 |  4   | 2/7   |                                            |                                                                        |
