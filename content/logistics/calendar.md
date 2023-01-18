@@ -29,6 +29,6 @@
 |      | 4/20  | P4 demo day                 |                               |                                                                          |   [P4 final](http://andnowforelectronics.com/logistics/projects)       |
 |  15  | 4/25  |                       |                               |                                           |         |
 |      | 4/27  | Last class, jobs talk                                  |                               |                                              |                                       |
-| (16) | 5/2   | No class                                  |                               |                                              |                                       |
-|      | 5/4   | No class                                  |                               |                                              |                                       |
+| (16) | 5/2   | Reading period                                  |                               |                                              |                                       |
+|      | 5/4   | Reading period                                  |                               |                                              |                                       |
 | (17) | 5/8   | MONDAY NOT TUESDAY |                               |                                                                          |[P5 showcase, 3:30-5:30 PM](http://designforfab.com/logistics/projects)|
