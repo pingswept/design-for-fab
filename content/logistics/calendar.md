@@ -1,15 +1,15 @@
 | Week | Date  | Lecture                                    | Due dates (bring project to class, upload documentation by midnight after class) |
 |:----:|:-----:|--------------------------------------------|------------------------------------------------------------------------|
 |  1   | 1/19  | Set your learning goals                    |                                                                        |
-|  2   | 1/24  | Controlling high force with low force      | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
-|      | 1/26  | How to criticize designs                   | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
-|  3   | 1/31  | Holes and fasteners                        |                                                                        |
-|      | 2/2   | Engineering material choices               | [P2 prototype due in class]                                            |
-|  4   | 2/7   |                                            | [P2 final due in class]                                                |
+|  2   | 1/24  | Controlling high force with low force      |                                                                        |
+|      | 1/26  | How to criticize designs                   | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
+|  3   | 1/31  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher)                                                                       |
+|      | 2/2   | Engineering material choices               |                                                                        |
+|  4   | 2/7   | Holes and fasteners                        | [P2 prototype due in class]                                            |
 |      | 2/9   | Joining shafts                             |                                                                        |
-|  5   | 2/14  |                                            |                                                                        |
-|      | 2/16  |                                            | [P3 prototype due in class]                                            |
-|  6   | 2/21  | Gears: spur/helical, bevel, worm           |                                                                        |
+|  5   | 2/14  |                                            | [P2 final due in class]                                                |
+|      | 2/16  |                                            |                                                                        |
+|  6   | 2/21  | Gears: spur/helical, bevel, worm           | [P3 prototype due in class]                                            |
 |      | 2/23  | No class: Monday schedule                  |                                                                        |
 |  7   | 2/28  |                                            | [P3 final due in class]                                                |
 |      | 3/2   | Fasteners and fasteners I hate             |                                                                        |
