@@ -41,23 +41,6 @@ You will be given: nothing, but if you want thin aluminum sheet, we can get it b
 
 Project due: Tuesday, February 11, at the start of class. Please email me a screenshot of your CAD model in folded and unfolded states by that time.
 
-# P2: Hidden mechanism box for kids
-
-Make a mechanism in a box that connects two opposing rods and survives exploration by kids. It should have the properties listed below.
-
-*   When you push rod A into the box, rod B moves into the box in a symmetrical fashion. When you pull A out, B emerges too.
-*   Rods A and B cannot be removed
-*   The top and sides of the box are opaque, hiding the mechanism. The top should not have fasteners if those fasteners would reveal the nature of the mechanism.
-*   The bottom is transparent, or in some way reveals the nature of the mechanism.
-*   The mechanism should be durable when exposed to kids.
-*   The mechanism should have a satisfying feel-- this might mean detents, no rattling, or smooth motion, but it depends on the mechanism.
-
-You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
-
-Prototype due: Tuesday, January 28, at the start of class. The prototype should test the mechanism, but need not be sealed up.
-
-Project due: Tuesday, February 4, at the start of class.
-
 # P5: Human-powered vehicle
 
 Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. You start at the green line and end at the green star.
@@ -145,6 +128,24 @@ P2 proto: Thursday, February 10, at the start of class.
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
 -->
+
+# P2: Hidden mechanism box for kids
+
+Make a mechanism in a box that connects two opposing rods and survives exploration by kids. It should have the properties listed below.
+
+*   When you push rod A into the box, rod B moves into the box in a symmetrical fashion. When you pull A out, B emerges too.
+*   Rods A and B cannot be removed
+*   The top and sides of the box are opaque, hiding the mechanism. The top should not have visible fasteners if those fasteners would reveal the nature of the mechanism.
+*   The bottom is transparent, or in some way reveals the nature of the mechanism.
+*   The mechanism should be durable when exposed to kids.
+*   The mechanism should have a satisfying feel-- this might mean detents, no rattling, or smooth motion, but it depends on the mechanism.
+
+You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
+
+Prototype due: Tuesday, February 7, at the start of class. The prototype should test the mechanism, but need not be sealed up.
+
+Project due: Thursday, February 9, at the start of class.
+
 # P1: Build a mechanical car launcher
 
 Design, prototype, and refine a mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth) to launch a toy car off a jump.
