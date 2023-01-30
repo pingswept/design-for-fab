@@ -3,10 +3,10 @@
 |  1   | 1/19  | Set your learning goals                    |                                                                        |
 |  2   | 1/24  | Controlling high force with low force      |                                                                        |
 |      | 1/26  | How to criticize designs                   | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
-|  3   | 1/31  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher)                                                                       |
+|  3   | 1/31  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |      | 2/2   | Engineering material choices               |                                                                        |
-|  4   | 2/7   | Holes and fasteners                        | [P2 prototype due in class]                                            |
-|      | 2/9   | Joining shafts                             | [P2 final due in class]                                                |
+|  4   | 2/7   | Holes and fasteners                        | [P2 prototype due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
+|      | 2/9   | Joining shafts                             | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
 |  5   | 2/14  |                                            |                                                                        |
 |      | 2/16  |                                            |                                                                        |
 |  6   | 2/21  | Gears: spur/helical, bevel, worm           | [P3 prototype due in class]                                            |
