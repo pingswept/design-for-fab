@@ -6,8 +6,8 @@
 |  3   | 1/31  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher)                                                                       |
 |      | 2/2   | Engineering material choices               |                                                                        |
 |  4   | 2/7   | Holes and fasteners                        | [P2 prototype due in class]                                            |
-|      | 2/9   | Joining shafts                             |                                                                        |
-|  5   | 2/14  |                                            | [P2 final due in class]                                                |
+|      | 2/9   | Joining shafts                             | [P2 final due in class]                                                |
+|  5   | 2/14  |                                            |                                                                        |
 |      | 2/16  |                                            |                                                                        |
 |  6   | 2/21  | Gears: spur/helical, bevel, worm           | [P3 prototype due in class]                                            |
 |      | 2/23  | No class: Monday schedule                  |                                                                        |
