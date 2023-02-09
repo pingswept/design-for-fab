@@ -34,6 +34,12 @@ Finally, we add a shield or seal. Both increase friction, but it can be worth it
 
 Side note: for larger, fancier bearings, we can make a small groove in the side of the outer race to allow more balls to be added. Then we weld, grind, and polish that groove away. The added balls let the bearing take high loads with less deformation, which probably leads to longer life.
 
+### Preloading ball bearings
+
+When ball bearings are manufactured, the rings are sized so that they are a little loose on the balls. To make the bearings run smoothly, you want to preload them. This means pushing the inner ring sideways slightly compared to the outer ring to take up the slack. You preload the bearings with a slightly compliant nut or spacer so that when the bearings heat up as they run, they can push against the preload and still run smoothly.
+
+(picture of face-to-face and back-to-back bearing preloading)
+
 ### Skateboard bearings dimensions
 
 Inner diameter: 8 mm
