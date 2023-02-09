@@ -3,6 +3,19 @@ title: "Bearings"
 draft: false
 ---
 
+### Types of bearings
+
+|        | (radial) | tapered | thrust |
+|--------|----------|---------|--------|
+| plain  |          |         |        |
+| ball   |          |         |        |
+| roller |          |         |        |
+| needle |          |         |        |
+
+Plain bearings are also called bushings, journal bearings, or sleeve bearings.
+
+A ball bearing uses spheres; a roller bearing uses cylinders; and a needle bearing uses real skinny cylinders. 
+
 ### How ball bearings are made
 
 For a small, cheap ball bearing like those used in skateboard wheels, we start with an outer ring and an inner ring.
