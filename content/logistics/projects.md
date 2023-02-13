@@ -92,23 +92,6 @@ P4 proto: Thursday, March 31, at the start of class. The record should spin unde
 
 P4 final: Tuesday, April 12, at the start of class. (Was previously April 7.)
 
-# P3: Make a puzzle ball
-
-In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](https://www.spinmaster.com/en-US/brands/spin-master-games/perplexus-epic/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous.
-
-You will be given:
-
-* 2 steel balls, 9 mm in diameter: [McMaster 1598K31](https://www.mcmaster.com/1598K31/)
-* 1 transparent plastic ball, approximate inner diameter 195 mm
-
-Restrictions:
-
-* Do not alter the big plastic balls. **Do not drill holes in them or glue things to them.** (This is for two reasons: I want to reuse them next year, but also, if you glue stuff in, you will very, very likely regret it. You need to be able to assemble, test, and then iterate. Adhesives do not iterate.)
-
-Prototype due: Tuesday, March 1, at the start of class.
-
-Project due: Tuesday, March 8, at the start of class.
-
 # P2: Build a wind-powered car
 
 Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
@@ -128,6 +111,23 @@ P2 proto: Thursday, February 10, at the start of class.
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
 -->
+
+# P3: Make a puzzle ball
+
+In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](https://www.spinmaster.com/en-US/brands/spin-master-games/perplexus-epic/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous.
+
+You will be given:
+
+* 2 steel balls, 9 mm in diameter: [McMaster 9292K44](https://www.mcmaster.com/9292K44)
+* 1 transparent plastic ball, approximate inner diameter 195 mm
+
+Restrictions:
+
+* Do not alter the big plastic balls. **Do not drill holes in them or glue things to them.** (This is for two reasons: I want to reuse them next year, but also, if you glue stuff in, you will very, very likely regret it. You need to be able to assemble, test, and then iterate. Adhesives do not iterate.)
+
+Prototype due: Tuesday, February 21, at the start of class.
+
+Project due: Tuesday, February 28, at the start of class.
 
 # P2: Hidden mechanism box for kids
 
