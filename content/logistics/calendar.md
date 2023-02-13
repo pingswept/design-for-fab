@@ -9,9 +9,9 @@
 |      | 2/9   | Joining shafts                             | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
 |  5   | 2/14  |                                            |                                                                        |
 |      | 2/16  |                                            |                                                                        |
-|  6   | 2/21  | Gears: spur/helical, bevel, worm           | [P3 prototype due in class]                                            |
+|  6   | 2/21  | Gears: spur/helical, bevel, worm           | [P3 prototype due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
 |      | 2/23  | No class: Monday schedule                  |                                                                        |
-|  7   | 2/28  |                                            | [P3 final due in class]                                                |
+|  7   | 2/28  |                                            | [P3 final due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
 |      | 3/2   | Fasteners and fasteners I hate             |                                                                        |
 |  8   | 3/7   |                                            | [P4 prototype due in class]                                            |
 |      | 3/9   | Ethical dilemmas                           |                                                                        |
