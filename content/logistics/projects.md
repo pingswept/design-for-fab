@@ -114,7 +114,7 @@ P2 final: Tuesday, February 15, at the start of class. You can submit documentat
 
 # P3: Make a puzzle ball
 
-In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](https://www.spinmaster.com/en-US/brands/spin-master-games/perplexus-epic/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous.
+In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus]([http://superplexus.com/perplexus/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous.
 
 You will be given:
 
