@@ -6,22 +6,22 @@
 |  3   | 1/31  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |      | 2/2   | Engineering material choices               |                                                                        |
 |  4   | 2/7   | Holes and fasteners                        | [P2 prototype due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
-|      | 2/9   | Joining shafts                             | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
+|      | 2/9   |                                            | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
 |  5   | 2/14  |                                            |                                                                        |
 |      | 2/16  |                                            |                                                                        |
-|  6   | 2/21  | Gears: spur/helical, bevel, worm           | [P3 prototype due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
+|  6   | 2/21  | Modeling mechanical systems, take 1        | [P3 prototype due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
 |      | 2/23  | No class: Monday schedule                  |                                                                        |
 |  7   | 2/28  |                                            | [P3 final due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
-|      | 3/2   | Fasteners and fasteners I hate             |                                                                        |
-|  8   | 3/7   |                                            | [P4 prototype due in class]                                            |
-|      | 3/9   | Ethical dilemmas                           |                                                                        |
-|  9   | 3/14  | Preloading ball bearings                   |                                                                        |
-|      | 3/16  |                                            | [P4 final due in class]                                                |
+|      | 3/2   | Modeling mechanical systems, take 2        |                                                                        |
+|  8   | 3/7   |                                            |                                             |
+|      | 3/9   | Gears: spur/helical, bevel, worm           |                                                                        |
+|  9   | 3/14  | Preloading ball bearings                   | [P4 prototype due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
+|      | 3/16  |                                            |                                                 |
 |  10  | 3/21  | No class: spring break                     |                                                                        |
 |      | 3/23  | No class: spring break                     |                                                                        |
 |  11  | 3/28  | Knots: how to tie them                     |                                                                        |
-|      | 3/30  | Belts, chains, wire rope                   |                                                                        |
-|  12  | 4/4   |                                            |                                                                        |
+|      | 3/30  | Belts, chains, wire rope                   | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
+|  12  | 4/4   | Joining shafts                             |                                                                        |
 |      | 4/6   |                                            | [P5 prototype due in class]                                            |
 |  13  | 4/11  | Flexure design                             |                                                                        |
 |      | 4/13  |                                            | [P5 final due in class]                                                |
