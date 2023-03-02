@@ -68,30 +68,6 @@ As usual, you should develop 1-3 learning goals for the project, in the usual fo
 * Thursday, April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
 * May 9, 3:30 PM: final trials on the course. We will invite a crowd.
 
-# P4: Gravity-powered record player
-
-With a partner, build a gravity-powered record player. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use folded sheet metal, cardboard, or the like. You might make a trigger mechanism that would start the record playing.
-
-### You will be given:
-
-*   1 vinyl record
-*   4 or 5 steel needles
-*   As many bricks as you request, within reason
-
-Please set your learning goals for the project on Canvas as soon as you have time.
-
-### A few pieces of advice
-
-As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
-
-You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
-
-For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system.
-
-P4 proto: Thursday, March 31, at the start of class. The record should spin under gravity power by this date.
-
-P4 final: Tuesday, April 12, at the start of class. (Was previously April 7.)
-
 # P2: Build a wind-powered car
 
 Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
@@ -111,6 +87,30 @@ P2 proto: Thursday, February 10, at the start of class.
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
 -->
+
+# P4: Gravity-powered record player
+
+With a partner, build a gravity-powered record player. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use folded sheet metal, cardboard, or the like. You might make a trigger mechanism that would start the record playing.
+
+### You will be given:
+
+*   1 vinyl record
+*   4 or 5 steel needles
+*   As many bricks as you request, within reason
+
+Please set your learning goals for the project on Canvas as soon as you have time.
+
+### A few pieces of advice
+
+As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
+
+You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
+
+For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
+
+P4 proto: Tuesday, March 14, at the start of class. The record should spin under gravity power by this date.
+
+P4 final: Thursday, March 30, at the start of class.
 
 # P3: Make a puzzle ball
 
