@@ -90,7 +90,7 @@ P2 final: Tuesday, February 15, at the start of class. You can submit documentat
 
 # P4: Gravity-powered record player
 
-With a partner, build a gravity-powered record player. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use folded sheet metal, cardboard, or the like. You might make a trigger mechanism that would start the record playing.
+Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use folded sheet metal, cardboard, or the like. You might make a trigger mechanism that would start the record playing.
 
 ### You will be given:
 
