@@ -87,14 +87,16 @@ P2 proto: Thursday, February 10, at the start of class.
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
 
-# P5: Element of a 22-piece kinetic art installation
+# P5: Lifting machine
 
-Build a 11" x 16" panel that has the following characteristics:
+Build a human-powered lifting machine for lifting materials onto the "roof" of a "building."
 
-1.  it is largely translucent,
-2.  it has a timing sprocket in the lower left corner that, when slowly rotated with a torque of less than 10 oz-in, makes its appearance change through purely mechanical means,
-3.  it has no words, logos, or other explicit messages, and
-4.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
+Your machine should have the characteristics listed below.
+
+*  Your machine must be controlled by one person.
+*  The operation of the machine should not rely on the person's strength in any substantial way.
+*  Your machine should be stout enough to lift a plywood-capped cinderblock weighing around 30 pounds.
+*  During operation, no person can attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock.
 
 ### You will be given:
 
