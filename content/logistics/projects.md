@@ -86,6 +86,26 @@ P2 proto: Thursday, February 10, at the start of class.
 
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
+
+# P5: Element of a 22-piece kinetic art installation
+
+Build a 11" x 16" panel that has the following characteristics:
+
+1.  it is largely translucent,
+2.  it has a timing sprocket in the lower left corner that, when slowly rotated with a torque of less than 10 oz-in, makes its appearance change through purely mechanical means,
+3.  it has no words, logos, or other explicit messages, and
+4.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
+
+### You will be given:
+
+*   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
+*   If you decide to use a cable-driven mechanism, steel cable
+
+P5 design review: Tuesday, March 10, at the start of class.
+
+P5 proto: Tuesday, March 24, at the start of class.
+
+P5 final: Tuesday, March 31, at the start of class.
 -->
 
 # P4: Gravity-powered record player
