@@ -13,17 +13,17 @@
 |      | 2/23  | No class: Monday schedule                  |                                                                        |
 |  7   | 2/28  |                                            | [P3 final due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
 |      | 3/2   | Modeling mechanical systems, take 2        |                                                                        |
-|  8   | 3/7   |                                            |                                             |
+|  8   | 3/7   | Joining shafts                             |                                             |
 |      | 3/9   | Gears: spur/helical, bevel, worm           |                                                                        |
 |  9   | 3/14  | Preloading ball bearings                   | [P4 prototype due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
-|      | 3/16  |                                            |                                                 |
+|      | 3/16  | (Brandon was out sick)                     |                                                 |
 |  10  | 3/21  | No class: spring break                     |                                                                        |
 |      | 3/23  | No class: spring break                     |                                                                        |
-|  11  | 3/28  | Knots: how to tie them                     |                                                                        |
-|      | 3/30  | Belts, chains, wire rope                   | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
-|  12  | 4/4   | Joining shafts                             |                                                                        |
-|      | 4/6   |                                            |                                                                        |
-|  13  | 4/11  | Flexure design                             | [P5 prototype due in class]                                            |
+|  11  | 3/28  | Knots, belts, chains, wire rope            |                                                                        |
+|      | 3/30  |                                            | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
+|  12  | 4/4   | Light, stiff structures in wood            |                                                                        |
+|      | 4/6   | Flexure design                             |                                                                        |
+|  13  | 4/11  |                                            | [P5 prototype due in class]                                            |
 |      | 4/13  |                                            |                                                                        |
 |  14  | 4/18  |                                            |                                                                        |
 |      | 4/20  |                                            | [P5 final due in class]                                                |
