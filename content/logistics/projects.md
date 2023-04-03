@@ -102,12 +102,14 @@ Your machine should have the characteristics listed below.
 
 *   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
 *   If you decide to use a cable-driven mechanism, steel cable
+*   As with the record player, as many bricks as you request, within reason
+*   Other materials or parts as needed
 
-P5 design review: Tuesday, March 10, at the start of class.
+P5 design review: Thursday, April 6, at the start of class.
 
-P5 proto: Tuesday, March 24, at the start of class.
+P5 proto: Tuesday, April 11, at the start of class.
 
-P5 final: Tuesday, March 31, at the start of class.
+P5 final: Thursday, April 20, at the start of class.
 -->
 
 # P4: Gravity-powered record player
