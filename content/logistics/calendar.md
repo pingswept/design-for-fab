@@ -22,13 +22,13 @@
 |  11  | 3/28  | Knots: how to tie them                     |                                                                        |
 |      | 3/30  | Belts, chains, wire rope                   | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
 |  12  | 4/4   | Joining shafts                             |                                                                        |
-|      | 4/6   |                                            | [P5 prototype due in class]                                            |
-|  13  | 4/11  | Flexure design                             |                                                                        |
-|      | 4/13  |                                            | [P5 final due in class]                                                |
+|      | 4/6   |                                            |                                                                        |
+|  13  | 4/11  | Flexure design                             | [P5 prototype due in class]                                            |
+|      | 4/13  |                                            |                                                                        |
 |  14  | 4/18  |                                            |                                                                        |
-|      | 4/20  |                                            |                                                                        |
-|  15  | 4/25  |                                            | [P6 prototype due in class]                                            |
-|      | 4/27  | Last class, life talk                      |                                                                        |
+|      | 4/20  |                                            | [P5 final due in class]                                                |
+|  15  | 4/25  |                                            |                                                                        |
+|      | 4/27  | Last class, life talk                      | [P6 prototype due in class]                                            |
 | (16) | 5/2   | (reading period)                           |                                                                        |
 |      | 5/4   | (reading period)                           |                                                                        |
 | (17) | 5/8   | MONDAY NOT TUESDAY                         | [P6 showcase, 3:30-5:30 PM]                                            |
