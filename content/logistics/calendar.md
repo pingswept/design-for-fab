@@ -23,10 +23,10 @@
 |      | 3/30  |                                            | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
 |  12  | 4/4   | Light, stiff structures in wood            |                                                                        |
 |      | 4/6   | Flexure design                             |                                                                        |
-|  13  | 4/11  |                                            | [P5 prototype due in class]                                            |
+|  13  | 4/11  |                                            | [P5 prototype due in class](https://designforfab.com/logistics/projects/#p5-lifting-machine) |
 |      | 4/13  |                                            |                                                                        |
 |  14  | 4/18  |                                            |                                                                        |
-|      | 4/20  |                                            | [P5 final due in class]                                                |
+|      | 4/20  |                                            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-lifting-machine) |
 |  15  | 4/25  |                                            |                                                                        |
 |      | 4/27  | Last class, life talk                      | [P6 prototype due in class]                                            |
 | (16) | 5/2   | (reading period)                           |                                                                        |
