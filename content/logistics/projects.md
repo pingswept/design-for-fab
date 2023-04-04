@@ -94,11 +94,11 @@ Build a human-powered machine for lifting a cinderblock onto the "roof" of a "bu
 
 Your machine should have the characteristics listed below.
 
-*  Your machine must be operated by one person.
-*  The operation of the machine should not rely on the operator's strength in any substantial way.
+*  Your machine must be operated by one person in your group.
+*  The operation of the machine should not rely on the operator's strength in any substantial way-- anyone in the class should be able to operate the machine, not just the strongest among us.
 *  Your machine should be stout enough to lift a plywood-capped cinderblock weighing around 30 pounds.
-*  You should not attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
-*  Your machine should not lift the cinderblock above the operator, including the operator's feet.
+*  You should not pre-attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
+*  For safety, your machine should not lift the cinderblock above the operator's body, lest it fall on them. Watch out for crushed feet too.
 *  The base of your machine must remain in the 48 inch wide zone next to the "building".
 
 ![](/img/lifting-machine-diagram.jpg)
