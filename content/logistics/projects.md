@@ -100,6 +100,7 @@ Your machine should have the characteristics listed below.
 *  You should not pre-attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
 *  For safety, your machine should not lift the cinderblock above the operator's body, lest it fall on them. Watch out for crushed feet too.
 *  The base of your machine must remain in the 48 inch wide zone next to the "building".
+*  The cinderblock should be deposited in the lower level of the buidling roof.
 
 ![](/img/lifting-machine-diagram.jpg)
 
