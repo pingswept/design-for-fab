@@ -86,22 +86,27 @@ P2 proto: Thursday, February 10, at the start of class.
 
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
+-->
 
 # P5: Lifting machine
 
-Build a human-powered lifting machine for lifting materials onto the "roof" of a "building."
+Build a human-powered machine for lifting a cinderblock onto the "roof" of a "building."
 
 Your machine should have the characteristics listed below.
 
-*  Your machine must be controlled by one person.
-*  The operation of the machine should not rely on the person's strength in any substantial way.
+*  Your machine must be operated by one person.
+*  The operation of the machine should not rely on the operator's strength in any substantial way.
 *  Your machine should be stout enough to lift a plywood-capped cinderblock weighing around 30 pounds.
-*  During operation, no person can attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock.
+*  You should not attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
+*  Your machine should not lift the cinderblock above the operator, including the operator's feet.
+*  The base of your machine must remain in the 48 inch wide zone next to the "building".
+
+![](/img/lifting-machine-diagram.jpg)
 
 ### You will be given:
 
 *   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
-*   If you decide to use a cable-driven mechanism, steel cable
+*   If you decide to use a cable-driven mechanism, 1/16" steel cable
 *   As with the record player, as many bricks as you request, within reason
 *   Other materials or parts as needed
 
@@ -110,7 +115,6 @@ P5 design review: Thursday, April 6, at the start of class.
 P5 proto: Tuesday, April 11, at the start of class.
 
 P5 final: Thursday, April 20, at the start of class.
--->
 
 # P4: Gravity-powered record player
 
