@@ -122,6 +122,8 @@ P6 final: Monday, May 8, 3:30 PM (as mandated by the university).
 
 -->
 
+![](/img/lifting-head.jpg)
+
 # P5: Lifting machine
 
 Build a human-powered machine for lifting a cinderblock onto the "roof" of a "building."
