@@ -86,6 +86,40 @@ P2 proto: Thursday, February 10, at the start of class.
 
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
+# P6: Lifting machine, round 2
+
+Build a human-powered machine for lifting a enclosure containing one of your team members from the lower patio to the upper patio of the SEC.
+
+Your machine should have the characteristics listed below.
+
+*  Your machine must be operated by one person in your group.
+*  The operation of the machine should not rely on the operator's strength in any substantial way-- anyone in the class should be able to operate the machine, not just the strongest among us.
+*  Your machine should be stout enough to lift the enclosure containing your team member.
+*  You should not pre-attach straps or adhesives or anything like that to the enclosure. As in P5, you will need to make some kind of end effector that can grip the enclosure. Do not damage the enclosure if you can help it.
+*  For safety, your machine should not lift the enclosure above the operator's body, lest it fall on them. Watch out for crushed feet too.
+*  The base of your machine must remain in the 48 inch wide zone on the lower patio.
+*  The enclosure should be deposited on the upper patio, at the same level as the top of the stairs.
+
+![](/img/patio-diagram.jpg)
+
+### You will be given:
+
+*   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
+*   If you decide to use a cable-driven mechanism, 1/16" steel cable
+*   As with the record player, as many bricks as you request, within reason
+*   Other materials or parts as needed
+
+### A few notes about safety:
+
+*  Before you test lifting a person in the box, try lifting the box filled with 6 cinderblocks (around 200 lbs, including the box).
+*  This is probably obvious, but if you can't lift the box of cinderblocks safely, do not try to lift a person.
+*  Scissor clamps that rely on friction can require a lot of compressive force. If you're using a scissor clamp, try to grip the box near the top.
+
+P6 proto: Thursday, April 27, at the start of class.
+
+P6 final: Monday, May 8, 3:30 PM (as mandated by the university).
+
+
 -->
 
 # P5: Lifting machine
@@ -100,7 +134,7 @@ Your machine should have the characteristics listed below.
 *  You should not pre-attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
 *  For safety, your machine should not lift the cinderblock above the operator's body, lest it fall on them. Watch out for crushed feet too.
 *  The base of your machine must remain in the 48 inch wide zone next to the "building".
-*  The cinderblock should be deposited in the lower level of the buidling roof.
+*  The cinderblock should be deposited in the lower level of the building roof.
 
 ![](/img/lifting-machine-diagram.jpg)
 
