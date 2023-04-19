@@ -113,7 +113,7 @@ Your machine should have the characteristics listed below.
 
 *  Before you test lifting a person in the box, try lifting the box filled with 6 cinderblocks (around 200 lbs, including the box).
 *  This is probably obvious, but if you can't lift the box of cinderblocks safely, do not try to lift a person.
-*  Scissor clamps that rely on friction can require a lot of compressive force. If you're using a scissor clamp, try to grip the box near the top.
+*  Scissor clamps that rely on friction can require a lot of compressive force. If you're using a scissor clamp, try to grip the top 3-6 inches of the box, where the box is sturdiest.
 
 P6 proto: Thursday, April 27, at the start of class.
 
