@@ -86,7 +86,9 @@ P2 proto: Thursday, February 10, at the start of class.
 
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
-# P6: Lifting machine, round 2
+-->
+
+# P6: Lifting machine 2.0
 
 Build a human-powered machine for lifting a enclosure containing one of your team members from the lower patio to the upper patio of the SEC.
 
@@ -118,9 +120,6 @@ Your machine should have the characteristics listed below.
 P6 proto: Thursday, April 27, at the start of class.
 
 P6 final: Monday, May 8, 3:30 PM (as mandated by the university).
-
-
--->
 
 ![](/img/foreshadow.png)
 
