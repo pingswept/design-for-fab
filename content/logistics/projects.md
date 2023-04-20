@@ -122,7 +122,7 @@ P6 final: Monday, May 8, 3:30 PM (as mandated by the university).
 
 -->
 
-![](/img/lifting-head.jpg)
+![](/img/foreshadow.png)
 
 # P5: Lifting machine
 
