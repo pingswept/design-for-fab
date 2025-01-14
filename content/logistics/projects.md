@@ -86,8 +86,6 @@ P2 proto: Thursday, February 10, at the start of class.
 
 P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
 
--->
-
 # P6: Lifting machine 2.0
 
 Build a human-powered machine for lifting a enclosure containing one of your team members from the lower patio to the upper patio of the SEC.
@@ -208,7 +206,7 @@ You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
 
 Prototype due: Tuesday, February 7, at the start of class. The prototype should test the mechanism, but need not be sealed up.
 
-Project due: Thursday, February 9, at the start of class.
+Project due: Thursday, February 9, at the start of class. -->
 
 # P1: Build a mechanical car launcher
 
@@ -224,7 +222,7 @@ The goal here is threefold:
 
 *  1 ball bearing, 22 mm OD, 8 mm ID, 7 mm width, part number 608RS
 *  1 socket head cap screw, M8 x 1.25 mm, 30 mm length (McMaster [91290A434](https://www.mcmaster.com/91290A434/))
-*  1 M8 x 1.25 mm nut (McMaster [91828A410](https://www.mcmaster.com/91828A410/))
+*  1 M8 x 1.25 mm nut (McMaster [90591A161](https://www.mcmaster.com/90591A161/))
 *  2 M8 washers (McMaster [98689A116](https://www.mcmaster.com/98689A116/))
 *  1 rubber band, size 64
 *  1 toy car for propulsion
@@ -236,4 +234,3 @@ The goal here is threefold:
 
 *  Probably some cardboard for prototyping
 *  Probably some acrylic or plywood from the Nolop store for laser cutting
-
