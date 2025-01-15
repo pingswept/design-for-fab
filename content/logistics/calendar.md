@@ -1,9 +1,9 @@
 | Week | Date  | Lecture                                    | Due dates (bring project to class, upload documentation by midnight after class) |
 |:----:|:-----:|--------------------------------------------|------------------------------------------------------------------------|
 |  1   | 1/15  | Set your learning goals                    |                                                                        |
-|  2   | 1/20  | Controlling high force with low force      |                                                                        |
-|      | 1/22  | How to criticize designs                   | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
-|  3   | 1/27  |                                            | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
+|  2   | 1/20  | NO CLASS: MLK Day                          |                                                                        |
+|      | 1/22  | Controlling high force with low force      | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
+|  3   | 1/27  | How to criticize designs                   | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |      | 1/29  | Engineering material choices               |                                                                        |
 |  4   | 2/3   | Holes and fasteners                        | [P2 prototype due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
 |      | 2/5   |                                            | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
