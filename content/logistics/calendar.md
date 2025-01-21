@@ -5,15 +5,15 @@
 |      | 1/22  | Controlling high force with low force      | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |  3   | 1/27  | How to criticize designs                   | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |      | 1/29  | Engineering material choices               |                                                                        |
-|  4   | 2/3   | Holes and fasteners                        | [P2 prototype due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
-|      | 2/5   |                                            | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-hidden-mechanism-box-for-kids) |
-|  5   | 2/10  |                                            |                                                                        |
+|  4   | 2/3   | Holes and fasteners                        | [P2 prototype due in class](https://designforfab.com/logistics/projects/#p2-wind-powered-car) |
+|      | 2/5   |                                            |                                                                        |
+|  5   | 2/10  |                                            | [P2 final due in class](https://designforfab.com/logistics/projects/#p2-wind-powered-car) |
 |      | 2/12  |                                            |                                                                        |
-|  6   | 2/17  | NO CLASS: President's Day                  | [P3 prototype due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
+|  6   | 2/17  | NO CLASS: President's Day                  |                                                                        |
 |      | 2/19  | Hannah explains sheet metal                |                                                                        |
-|  7   | 2/24  |                                            | [P3 final due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
+|  7   | 2/24  |                                            | [P3 prototype due in class](https://designforfab.com/logistics/projects/#p3-build-it-and-sell-it) |
 |      | 2/26  | Modeling mechanical systems, take 2        |                                                                        |
-|  8   | 3/3   | Joining shafts                             |                                                                        |
+|  8   | 3/3   | Joining shafts                             | [P3 final due in class](https://designforfab.com/logistics/projects/#p3-build-it-and-sell-it) |
 |      | 3/5   | Gears: spur/helical, bevel, worm           |                                                                        |
 |  9   | 3/10  | Preloading ball bearings                   | [P4 prototype due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
 |      | 3/12  |                                            |                                                                        |
