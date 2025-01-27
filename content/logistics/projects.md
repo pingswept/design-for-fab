@@ -208,6 +208,34 @@ Prototype due: Tuesday, February 7, at the start of class. The prototype should 
 
 Project due: Thursday, February 9, at the start of class. -->
 
+# P2: Build a sturdy wooden chair
+
+Build a chair out of wood.
+
+### You will be given:
+
+*  1 square of plywood, 15.5 inches on a side
+*  2 2x4's, each 8 feet long
+*  1 1x3, 8 feet long
+
+You can use any other wood you can find or buy, but don't go buy a bunch of fancy wood. The idea here is not to make an heirloom, but to make a structurally sound chair with basic materials.
+
+A few guidelines to help your learning:
+
+* If you feel compelled to stain or paint your chair, please wait until after the due date and don't do it in Nolop. (You should probably do it outside, but it's probably too cold for that, which is why I'm trying to convince you not to do it.)
+* Think about the loads that your chair will experience when you lean back in it or tip in any direction. Try to reinforce the legs and back so that they won't break.
+* Glue joint strength is proportional to surface area.
+* In general, fasteners shouldn't take load directly-- they should hold load-bearing parts in place.
+* If you feel the need to cut a 2x4 the long way, just use a 2x2 instead. We have a pile of those.
+
+### P2 due dates
+
+P2 learning goals: Monday, January 27, 11:59 PM on Canvas.
+
+P2 due: Monday, February 3, at the start of class.
+
+P2 learning results: Monday, February 3, 11:59 PM on Canvas.
+
 # P1: Build a mechanical car launcher
 
 Design, prototype, and refine a mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth) to launch a toy car off a jump.
