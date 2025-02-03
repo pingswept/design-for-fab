@@ -208,7 +208,7 @@ Prototype due: Tuesday, February 7, at the start of class. The prototype should 
 
 Project due: Thursday, February 9, at the start of class. -->
 
-# P3: Build a wind-powered car
+# P3: Build a wind-powered vehicle
 
 Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
 
