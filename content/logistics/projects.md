@@ -208,6 +208,28 @@ Prototype due: Tuesday, February 7, at the start of class. The prototype should 
 
 Project due: Thursday, February 9, at the start of class. -->
 
+# P3: Build a wind-powered car
+
+Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
+
+### You will be given:
+*  1 hardened steel shaft, 4 mm diameter, 300 mm long (cut only with hacksaw, NOT bandsaw or shear!)
+*  4 ball bearings, ID 4 mm, OD either 9 or 12 mm
+*  More ball bearings, if you need them
+
+A few guidelines to help your learning:
+
+* On the final vehicle, Lego gears are prohibited. You can use other Legos (wheels or whatever) if you want, but no Lego gears. This is to encourage you to learn how to design a gear, if you want to use gears. For prototyping, anything goes.
+* If your design uses a propeller, do not 3D print a propeller, unless it is entirely of your own design. This is to encourage you to learn how to design a propeller.
+* Your vehicle does NOT have to be a car. Wheels are cool, but other methods could also work, depending on your goals.
+* Think carefully about tip speed ratio: https://mmpa.org/wp-content/uploads/2015/09/Tip-Speed-Ratio-Provided-by-Kid-Wind-PDF.pdf
+
+### P3 due dates
+
+P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
+
+P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
+
 # P2: Build a sturdy wooden chair
 
 Build a chair out of wood.
