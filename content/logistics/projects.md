@@ -223,8 +223,8 @@ A few guidelines to help your learning:
 * If your design uses a propeller, do not 3D print a propeller, unless it is entirely of your own design. This is to encourage you to learn how to design a propeller.
 * Your vehicle does NOT have to be a car. Wheels are cool, but other methods could also work, depending on your goals.
 * Think carefully about tip speed ratio: https://mmpa.org/wp-content/uploads/2015/09/Tip-Speed-Ratio-Provided-by-Kid-Wind-PDF.pdf
-* More technical info about [wind turbine blade design](/img/erich-hau-rotor-design.pdf) I would start by looking carefully at figure 5.10, and then going back to look at optimal tip speed ratio in figure 5.7.
-* You might also be interested in this [Javascript airfoil simulator](/foilsimjs/FoilSimStudent.html)
+* More technical info about [wind turbine blade design](/img/erich-hau-rotor-design.pdf) from Erich Hau's 2005 book, Wind Turbines. I would start by looking carefully at figure 5.10, and then going back to look at optimal tip speed ratio in figure 5.7.
+* You might also be interested in this [Javascript airfoil simulator](/foilsimjs/FoilSimStudent.html). You could mess around with it to create an airfoil profile that maximizes lift/drag ratio, and then click the "geometry" button to get the XY coordinates of the profile, which you could then pull into Onshape.
 
 ### P3 due dates
 
