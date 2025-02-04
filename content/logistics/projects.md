@@ -224,6 +224,7 @@ A few guidelines to help your learning:
 * Your vehicle does NOT have to be a car. Wheels are cool, but other methods could also work, depending on your goals.
 * Think carefully about tip speed ratio: https://mmpa.org/wp-content/uploads/2015/09/Tip-Speed-Ratio-Provided-by-Kid-Wind-PDF.pdf
 * More technical info about [wind turbine blade design](/img/erich-hau-rotor-design.pdf) I would start by looking carefully at figure 5.10, and then going back to look at optimal tip speed ratio in figure 5.7.
+* You might also be interested in this [Javascript airfoil simulator](/foilsimjs/FoilSimStudent.html)
 
 ### P3 due dates
 
