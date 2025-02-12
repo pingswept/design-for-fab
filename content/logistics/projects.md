@@ -208,6 +208,29 @@ Prototype due: Tuesday, February 7, at the start of class. The prototype should 
 
 Project due: Thursday, February 9, at the start of class. -->
 
+# P4: Build a sheet metal lamp
+
+Build a lamp out of sheet metal. The target here is two-fold: experience with sheet metal and experience with aesthetic design.
+
+### You will be given:
+* A sheet of 5052-H32 aluminum, 0.032 in thick, roughly 12 inches square
+* A sheet of A1008 steel, 0.030 in thick, roughly 12 inches square
+* An LED light bulb
+* A light socket with a cord and switch
+
+A few guidelines to help your learning:
+
+* Aluminum is a lot more forgiving than steel. With aluminum, if you get a bend slightly off, you can probably still rebend it or tweak it a bit to make it fit. With steel, not so much.
+* We have pop rivet tool in Nolop.
+* We have two hand punches in Nolop.
+* If you want to waterjet an intricate pattern, don't. It will take forever and use a huge amount of garnet. Instead, search for "perforated metal" or "cloverleaf sheet." You could split a sheet with a friend if it's expensive. Home Depot has big sheets; Amazon has smaller stuff. You can also lasercut other materials as panel inserts.
+
+### P4 due dates
+
+P4 learning goals: Wednesday, February 19, 11:59 PM on Canvas.
+
+P4 final: Wednesday, February 26, at the start of class. You can submit documentation up until late Wednesday night, but please bring your lamp to class.
+
 # P3: Build a wind-powered vehicle
 
 Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
