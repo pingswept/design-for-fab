@@ -15,20 +15,20 @@
 |      | 2/26  | Modeling mechanical systems, take 2        | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-build-a-sheet-metal-lamp) |
 |  8   | 3/3   | Joining shafts                             |                                                                        |
 |      | 3/5   | Gears: spur/helical, bevel, worm           |                                                                        |
-|  9   | 3/10  | Preloading ball bearings                   | [P5 prototype due in class](https://designforfab.com/logistics/projects/) |
-|      | 3/12  |                                            | [P5 final due in class](https://designforfab.com/logistics/projects/)     |
+|  9   | 3/10  | Preloading ball bearings                   |                                                                        |
+|      | 3/12  |                                            | [P5 prototype due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
 |  10  | 3/17  | No class: spring break                     |                                                                        |
 |      | 3/19  | No class: spring break                     |                                                                        |
 |  11  | 3/24  | Knots, belts, chains, wire rope            |                                                                        |
 |      | 3/26  |                                            |                                                                        |
-|  12  | 3/31  | Light, stiff structures in wood            | [P6 prototype due in class](https://designforfab.com/logistics/projects/) |
+|  12  | 3/31  | Light, stiff structures in wood            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
 |      | 4/2   | Flexure design                             |                                                                        |
-|  13  | 4/7   |                                            | [P6 final due in class](https://designforfab.com/logistics/projects/) |
+|  13  | 4/7   |                                            |                                                                        |
 |      | 4/9   |                                            |                                                                        |
 |  14  | 4/14  |                                            |                                                                        |
-|      | 4/16  |                                            | [P7 prototype due in class](https://designforfab.com/logistics/projects/) |
+|      | 4/16  |                                            | [P6 prototype due in class](https://designforfab.com/logistics/projects/) |
 |  15  | 4/21  | NO CLASS: Patriot's Day                    |                                                                        |
-|      | 4/23  |                                            | [P7 final due in class](https://designforfab.com/logistics/projects/) |
-|  16  | 4/28  | Last class, life talk                      | [P8 prototype due in class] |
+|      | 4/23  |                                            | [P6 final due in class](https://designforfab.com/logistics/projects/) |
+|  16  | 4/28  | Last class, life talk                      | [P7 prototype due in class] |
 |      | 4/30  | (reading period)                           |                                                                        |
-|      | 5/2   | FRIDAY, HIGH NOON                          | [P8 showcase, 12:00 PM]                                                |
+|      | 5/2   | FRIDAY, HIGH NOON                          | [P7 showcase, 12:00 PM]                                                |
