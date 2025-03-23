@@ -204,7 +204,7 @@ You will probably also find that the sound of the needle is surprisingly audible
 
 For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
 
-P5 proto-design: Wednesday, March 12, at the start of class. The record should spin under gravity power by this date.
+P5 proto-design: Wednesday, March 12, at the start of class. The record should spin under gravity power by this date. Please submit some calculations on Canvas that suggest your record player could plausibly play for 4.5 minutes.
 
 P5 final: Wednesday, March 31, at the start of class.
 
