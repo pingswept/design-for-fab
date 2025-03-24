@@ -206,7 +206,7 @@ For most of you, the major challenge of the project will be figuring out how to 
 
 P5 proto-design: Wednesday, March 12, at the start of class. The record should spin under gravity power by this date. Please submit some calculations on Canvas that suggest your record player could plausibly play for 4.5 minutes.
 
-P5 final: Wednesday, March 31, at the start of class.
+P5 final: Monday, March 31, at the start of class.
 
 # P4: Build a sheet metal lamp
 
