@@ -29,6 +29,6 @@
 |      | 4/16  |                                            | [P6 prototype due in class](https://designforfab.com/logistics/projects/) |
 |  15  | 4/21  | NO CLASS: Patriot's Day                    |                                                                        |
 |      | 4/23  |                                            | [P6 final due in class](https://designforfab.com/logistics/projects/) |
-|  16  | 4/28  | Last class, life talk                      | [P7 prototype due in class] |
+|  16  | 4/28  | Last class, life talk                      |                                                                        |
 |      | 4/30  | (reading period)                           |                                                                        |
 |      | 5/2   | FRIDAY, HIGH NOON                          | [P7 showcase, 12:00 PM]                                                |
