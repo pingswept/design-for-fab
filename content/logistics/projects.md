@@ -4,11 +4,15 @@ draft: false
 ---
 <!--
 
---------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020-22! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2023! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
+--------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020-25! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2026! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
 
 # P5: Human-powered vehicle
 
-Your mission is, as a team of 2 or 3, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. Your pilot and your vehicle start at the green line. In heats of 3 teams, your pilot and vehicle must complete 2 circuits of the course, finishing by traveling up the ramp back to the starting line. During each lap, your pilot and vehicle must pass through one of the Archways of Despair.
+Your mission is, as a team of 2 or 3, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below.
+
+Your pilot and your vehicle start at the green line. In heats of 3 teams, your pilot and vehicle must complete 2 circuits of the course, finishing by traveling up the ramp back to the starting line. During each lap, your pilot and vehicle must pass through one of the Archways of Despair.
+
+Anticipating 14-18 teams, we will probably have 3 rounds of single-elimination heats, where the victor of each heat progresses to the next round. For the final round, 3 laps of the course are required.
 
 The vehicle should have the following qualities:
 
@@ -19,6 +23,8 @@ The vehicle should have the following qualities:
 ![The challenge course](/img/dff-patio-vehicle-arena-2025.jpg)
 
 ![The archways of despair](/img/dff-archways-of-despair-dimensions.png)
+
+The archways of despair will be constructed of plywood and fixed to the bench in the area indicated. The two archways are sized identically.
 
 As usual, you should develop 1-3 learning goals for the project, in the usual format on Canvas. My goal is to give you the opportunity to work on an engineering challenge that is physically larger and likely involves higher forces than the smaller, desktop projects we've done so far.
 
@@ -31,9 +37,9 @@ You will be given:
 
 ### Trials / due dates
 
-* Tuesday, April 19, 10:30 AM: show the class a drawing of your vehicle.
-* Thursday, April 28, 10:30 AM: preliminary trials on the course. This is mandatory.
-* May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
+* Monday, April 7, 10:30 AM: Informal design review: show the class a drawing of your vehicle.
+* Wednesday, April 23, 10:30 AM: preliminary trials on the course during class. This is mandatory.
+* Friday, May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
 
 # P5: Element of a 22-piece kinetic art installation
 
