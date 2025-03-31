@@ -218,6 +218,7 @@ You will be given:
 ### Trials / due dates
 
 * Monday, April 7, 10:30 AM: Informal design review: show the class a drawing of your vehicle.
+* Monday, April 14, 10:30 AM: Fabrication plan and materials list due on Canvas
 * Wednesday, April 23, 10:30 AM: preliminary trials on the course during class. This is mandatory.
 * Friday, May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
 
