@@ -6,41 +6,6 @@ draft: false
 
 --------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020-25! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2026! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
 
-# P5: Human-powered vehicle
-
-Your mission is, as a team of 2 or 3, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below.
-
-Your pilot and your vehicle start at the green line. In heats of 3 teams, your pilot and vehicle must complete 2 circuits of the course, finishing by traveling up the ramp back to the starting line. During each lap, your pilot and vehicle must pass through one of the Archways of Despair.
-
-Anticipating 14-18 teams, we will probably have 3 rounds of single-elimination heats, where the victor of each heat progresses to the next round. For the final round, 3 laps of the course are required.
-
-The vehicle should have the following qualities:
-
-1. It is piloted and powered entirely by 1 or more of your team members.
-4. While traveling, nobody onboard the vehicle should touch the ground.
-5. The vehicle should not require unusual balance or skill to pilot (no unicycles, pogo sticks, unstable monstrosities).
-
-![The challenge course](/img/dff-patio-vehicle-arena-2025.jpg)
-
-![The archways of despair](/img/dff-archways-of-despair-dimensions.png)
-
-The archways of despair will be constructed of plywood and fixed to the bench in the area indicated. The two archways are sized identically.
-
-As usual, you should develop 1-3 learning goals for the project, in the usual format on Canvas. My goal is to give you the opportunity to work on an engineering challenge that is physically larger and likely involves higher forces than the smaller, desktop projects we've done so far.
-
-### Resources
-You will be given:
-
-1. 0-4 caster wheels, depending on how many your design needs
-2. 0-2 wheelbarrow wheels, 16 inches in diameter, depending on how many your design needs
-3. 2x3 lumber will be available in the Nolop store for around $5/8 ft. Also, some plywood, 1/4", $10 per 2x4 ft panel. We also have lots of aluminum framing.
-
-### Trials / due dates
-
-* Monday, April 7, 10:30 AM: Informal design review: show the class a drawing of your vehicle.
-* Wednesday, April 23, 10:30 AM: preliminary trials on the course during class. This is mandatory.
-* Friday, May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
-
 # P5: Element of a 22-piece kinetic art installation
 
 Build a 11" x 16" panel that has the following characteristics:
@@ -218,6 +183,43 @@ You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
 Prototype due: Tuesday, February 7, at the start of class. The prototype should test the mechanism, but need not be sealed up.
 
 Project due: Thursday, February 9, at the start of class. -->
+
+# P6: Human-powered vehicle
+
+Your mission is, as a team of 2 or 3, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below.
+
+Your pilot and your vehicle start at the green line. In heats of 3 teams, your pilot and vehicle must complete 2 circuits of the course, finishing by traveling up the ramp back to the starting line. During each lap, your pilot and vehicle must pass through one of the Archways of Despair.
+
+Anticipating 14-18 teams, we will probably have 3 rounds of single-elimination heats, where the victor of each heat progresses to the next round. For the final round, 3 laps of the course are required. To be clear: yes, these are races.
+
+The vehicle should have the following qualities:
+
+1. It is piloted and powered entirely by 1 or more of your team members.
+4. While traveling, nobody onboard the vehicle should touch the ground. Sneakers, gloves, and the like count as part of you. No Flintstone cars.
+5. The vehicle should not require unusual balance or skill to pilot (no unicycles, pogo sticks, unstable monstrosities).
+
+![The race course](/img/dff-patio-vehicle-arena-2025.jpg)
+
+![The archways of despair](/img/dff-archways-of-despair-dimensions.png)
+
+The archways of despair will be constructed of plywood and fixed to the bench in the area indicated. The two archways are sized identically.
+
+As usual, you should develop 1-3 learning goals for the project, in the usual format on Canvas. My goal is to give you the opportunity to work on an engineering challenge that is physically larger and likely involves higher forces than the smaller, desktop projects we've done so far.
+
+### Resources
+You will be given:
+
+1. 0-4 caster wheels, depending on how many your design needs
+2. 0-2 wheelbarrow wheels, 16 inches in diameter, depending on how many your design needs
+3. As much 1/2 inch steel rod as you need to make axles, within reason
+
+2x4 and 2x3 lumber and 15/32 inch plywood will be available in the red zone by April 7. If there are additional materials that you need, please let Brandon know as soon as you can. Brandon/Hannah/Hannah's truck will be making multiple Home Depot runs as the project progresses, but not at midnight. (Home Depot closes at 10 PM.)
+
+### Trials / due dates
+
+* Monday, April 7, 10:30 AM: Informal design review: show the class a drawing of your vehicle.
+* Wednesday, April 23, 10:30 AM: preliminary trials on the course during class. This is mandatory.
+* Friday, May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
 
 # P5: Gravity-powered record player
 
