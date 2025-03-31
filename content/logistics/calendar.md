@@ -23,9 +23,9 @@
 |      | 3/26  |                                            |                                                                        |
 |  12  | 3/31  | Light, stiff structures in wood            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
 |      | 4/2   | Flexure design                             |                                                                        |
-|  13  | 4/7   |                                            | [P6 design review in class](https://designforfab.com/logistics/projects/) |
+|  13  | 4/7   |                                            | [P6 design review in class](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
 |      | 4/9   |                                            |                                                                        |
-|  14  | 4/14  |                                            |                                                                        |
+|  14  | 4/14  |                                            | [P6 fabrication plan and materials list due on Canvas](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
 |      | 4/16  |                                            |                                                                        |
 |  15  | 4/21  | NO CLASS: Patriot's Day                    |                                                                        |
 |      | 4/23  |                                            | [P6 trials on the patio, 10:30 AM](https://designforfab.com/logistics/projects/) |
