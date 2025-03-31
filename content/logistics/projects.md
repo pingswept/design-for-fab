@@ -195,7 +195,7 @@ Anticipating 14-18 teams, we will probably have 3 rounds of single-elimination h
 The vehicle should have the following qualities:
 
 1. It is piloted and powered entirely by 1 or more of your team members.
-4. While traveling, nobody onboard the vehicle should touch the ground. Sneakers, gloves, and the like count as part of you. No Flintstone cars.
+4. While traveling, nobody participating in the race should touch the ground. Sneakers, gloves, and the like count as part of you. No Flintstone cars.
 5. The vehicle should not require unusual balance or skill to pilot (no unicycles, pogo sticks, unstable monstrosities).
 
 ![The race course](/img/patio-vehicle-arena-2025.jpg)
