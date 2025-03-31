@@ -28,7 +28,7 @@
 |  14  | 4/14  |                                            | [P6 fabrication plan and materials list due on Canvas](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
 |      | 4/16  |                                            |                                                                        |
 |  15  | 4/21  | NO CLASS: Patriot's Day                    |                                                                        |
-|      | 4/23  |                                            | [P6 trials on the patio, 10:30 AM](https://designforfab.com/logistics/projects/) |
+|      | 4/23  |                                            | [P6 trials on the patio, 10:30 AM](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
 |  16  | 4/28  | Last class, life talk                      |                                                                        |
 |      | 4/30  | (reading period)                           |                                                                        |
-|      | 5/2   | FRIDAY, HIGH NOON                          | [P6 showcase, 12:00 PM]                                                |
+|      | 5/2   | FRIDAY, HIGH NOON                          | [P6 showcase, 12:00 PM](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
