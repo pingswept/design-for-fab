@@ -23,12 +23,12 @@
 |      | 3/26  |                                            |                                                                        |
 |  12  | 3/31  | Light, stiff structures in wood            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
 |      | 4/2   | Flexure design                             |                                                                        |
-|  13  | 4/7   |                                            |                                                                        |
+|  13  | 4/7   |                                            | [P6 design review in class](https://designforfab.com/logistics/projects/) |
 |      | 4/9   |                                            |                                                                        |
 |  14  | 4/14  |                                            |                                                                        |
-|      | 4/16  |                                            | [P6 prototype due in class](https://designforfab.com/logistics/projects/) |
+|      | 4/16  |                                            |                                                                        |
 |  15  | 4/21  | NO CLASS: Patriot's Day                    |                                                                        |
-|      | 4/23  |                                            | [P6 final due in class](https://designforfab.com/logistics/projects/) |
+|      | 4/23  |                                            | [P6 trials on the patio, 10:30 AM](https://designforfab.com/logistics/projects/) |
 |  16  | 4/28  | Last class, life talk                      |                                                                        |
 |      | 4/30  | (reading period)                           |                                                                        |
-|      | 5/2   | FRIDAY, HIGH NOON                          | [P7 showcase, 12:00 PM]                                                |
+|      | 5/2   | FRIDAY, HIGH NOON                          | [P6 showcase, 12:00 PM]                                                |
