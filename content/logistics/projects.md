@@ -198,9 +198,9 @@ The vehicle should have the following qualities:
 4. While traveling, nobody onboard the vehicle should touch the ground. Sneakers, gloves, and the like count as part of you. No Flintstone cars.
 5. The vehicle should not require unusual balance or skill to pilot (no unicycles, pogo sticks, unstable monstrosities).
 
-![The race course](/img/dff-patio-vehicle-arena-2025.jpg)
+![The race course](/img/patio-vehicle-arena-2025.jpg)
 
-![The archways of despair](/img/dff-archways-of-despair-dimensions.png)
+![The archways of despair](/img/archways-of-despair-dimensions.png)
 
 The archways of despair will be constructed of plywood and fixed to the bench in the area indicated. The two archways are sized identically.
 
