@@ -202,9 +202,9 @@ The vehicle should have the following qualities:
 
 ![The archways of despair](/img/archways-of-despair-dimensions.png)
 
-The archways of despair will be constructed of plywood and fixed to the bench in the area indicated. The two archways are sized identically.
+The archways of despair will be constructed of plywood and fixed to the bench in the area indicated. The two archways are sized identically. If all goes as planned, the Archways of Despair will be tastefully decorated and embellished by a third-party vendor (Arcadia).
 
-As usual, you should develop 1-3 learning goals for the project, in the usual format on Canvas. My goal is to give you the opportunity to work on an engineering challenge that is physically larger and likely involves higher forces than the smaller, desktop projects we've done so far.
+As usual, you should develop 1-3 learning goals for the project, in the usual format on Canvas. My goal is to give you the opportunity to work on an engineering challenge that is physically larger and likely involves higher forces than the smaller, desktop projects we've done so far. You'll have to deal with forces on the scale of your weight and the srength of your arms and legs; my hope is that this will expand your design instincts for the larger scale work that is common in industry.
 
 ### Resources
 You will be given:
