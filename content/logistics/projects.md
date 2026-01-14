@@ -182,7 +182,7 @@ You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
 
 Prototype due: Tuesday, February 7, at the start of class. The prototype should test the mechanism, but need not be sealed up.
 
-Project due: Thursday, February 9, at the start of class. -->
+Project due: Thursday, February 9, at the start of class. 
 
 # P6: Human-powered vehicle
 
@@ -319,31 +319,26 @@ P2 learning goals: Monday, January 27, 11:59 PM on Canvas.
 
 P2 due: Monday, February 3, at the start of class.
 
-P2 learning results: Monday, February 3, 11:59 PM on Canvas.
+P2 learning results: Monday, February 3, 11:59 PM on Canvas.-->
 
 # P1: Build a mechanical car launcher
 
-Design, prototype, and refine a mechanism that can reliably hold and release a 9.8 N force (the weight of a 1 kg mass on Earth) to launch a toy car off a jump.
+Design, prototype, and refine a mechanism that can reliably hold and release a toy car with enough force to launch a toy car through a hoop.
 
 The goal here is threefold: 
 
-1. control a large force from a rubber band with a small force from your finger
-2. learn how to build a smooth mechanism
-3. actually launch toy cars off a jump
+1. design a means to control a large force from a rubber band with a small force from your finger
+2. validate your design with mathematical estimates
+3. practice building a smooth mechanism
 
 ### You will be given:
 
-*  1 ball bearing, 22 mm OD, 8 mm ID, 7 mm width, part number 608RS
-*  1 socket head cap screw, M8 x 1.25 mm, 30 mm length (McMaster [91290A434](https://www.mcmaster.com/91290A434/))
-*  1 M8 x 1.25 mm nut (McMaster [90591A161](https://www.mcmaster.com/90591A161/))
-*  2 M8 washers (McMaster [98689A116](https://www.mcmaster.com/98689A116/))
-*  1 rubber band, size 64
+*  1 ball bearing, 8 mm OD, 3 mm ID, 4 mm width, part number 693ZZ
+*  1 piece of steel rod, 3 mm in diameter
+*  A pile of rubber bands, size 64
 *  1 toy car for propulsion
-*  Various bolts and washers, available in the gray drawers in Nolop
-*  Various brass heat-set inserts, available in the orange cabinet in Nolop
-*  Various washers, available in the gray drawers in Nolop
 
 ### You will need to obtain:
 
 *  Probably some cardboard for prototyping
-*  Probably some acrylic or plywood from the Nolop store for laser cutting
+*  Probably some plywood from the Nolop store for laser cutting
