@@ -342,3 +342,23 @@ The goal here is threefold:
 
 *  Probably some cardboard for prototyping
 *  Probably some plywood from the Nolop store for laser cutting
+
+## Deliverables
+
+For the second class, you should bring three things:
+
+1. A design for your car launcher in the form of a detailed drawing or CAD model
+2. Some mathematical calculations that suggest that your car launcher will propel the car to the right height
+3. Some kind of physical validation that suggests you are on the right track, like a prototype or test mechanism
+
+For the final due date, bring your car launcher to class, and we'll test them out. There will be cheers and groans.
+
+By midnight on the due date, submit some documentation: a screenshot of CAD model or a picture of your drawings, a PDF of your calculations, and a picture of what you built. If you are proud of what you built, make sure that the picture makes it look good.
+
+## P2 due dates
+
+P1 design, calculations, some design validation: Tuesday, January 20, in class.
+
+P1 project due: Tuesday, January 27, at the start of class.
+
+P1 documentation: Tuesday, January 27, 11:59 PM on Canvas.
