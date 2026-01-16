@@ -2,8 +2,8 @@
 |:----:|:-----:|--------------------------------------------|------------------------------------------------------------------------|
 |  1   | 1/15  | Controlling high force with low force      |                                                                        |
 |  2   | 1/20  | P1 design review, how to criticize designs | [P1 prototype due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
-|      | 1/22  | P1 car launcher trials                     | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
-|  3   | 1/27  |                                            |                                                                        |
+|      | 1/22  |                                            |                                                                        |
+|  3   | 1/27  | P1 car launcher trials                     | [P1 final due in class](https://designforfab.com/logistics/projects/#p1-build-a-mechanical-car-launcher) |
 |      | 1/29  | Engineering material choices               |                                                                        |
 |  4   | 2/3   | Holes and fasteners                        | [P2 due in class](https://designforfab.com/logistics/projects/) |
 |      | 2/5   |                                            |                                                                        |
