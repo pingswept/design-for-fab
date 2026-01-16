@@ -10,7 +10,7 @@
 |  5   | 2/10  |                                            |                                                                        |
 |      | 2/12  |                                            | [P3 due in class](https://designforfab.com/logistics/projects/#p3-build-a-wind-powered-vehicle) |
 |  6   | 2/17  | NO CLASS: President's Day                  |                                                                        |
-|      | 2/19  | Hannah explains sheet metal                |                                                                        |
+|      | 2/19  | Rob Treanor teaches about wood             |                                                                        |
 |  7   | 2/24  |                                            |                                                                        |
 |      | 2/26  | Modeling mechanical systems, take 2        | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-build-a-sheet-metal-lamp) |
 |  8   | 3/3   | Joining shafts                             |                                                                        |
