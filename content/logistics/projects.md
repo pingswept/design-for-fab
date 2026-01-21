@@ -355,7 +355,7 @@ For the final due date, bring your car launcher to class, and we'll test them ou
 
 By midnight on the due date, submit some documentation: a screenshot of CAD model or a picture of your drawings, a PDF of your calculations, and a picture of what you built. If you are proud of what you built, make sure that the picture makes it look good.
 
-## P2 due dates
+## P1 due dates
 
 P1 design, calculations, some design validation: Tuesday, January 20, in class.
 
