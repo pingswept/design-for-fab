@@ -293,15 +293,17 @@ P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
 
 P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
 
+-->
+
 # P2: Build a sturdy wooden chair
 
-Build a chair out of wood.
+Build a chair out of wood. If you prefer, you can use a different material or build a different piece of furniture that holds up a person's weight.
 
 ### You will be given:
 
 *  1 square of plywood, 15.5 inches on a side
 *  2 2x4's, each 8 feet long
-*  1 1x3, 8 feet long
+*  1 1x4, 8 feet long
 
 You can use any other wood you can find or buy, but don't go buy a bunch of fancy wood. The idea here is not to make an heirloom, but to make a structurally sound chair with basic materials.
 
@@ -312,14 +314,15 @@ A few guidelines to help your learning:
 * Glue joint strength is proportional to surface area.
 * In general, fasteners shouldn't take load directly-- they should hold load-bearing parts in place.
 * If you feel the need to cut a 2x4 the long way, just use a 2x2 instead. We have a pile of those.
+* We also have a pile of 2x6's that are fair game.
 
 ### P2 due dates
 
-P2 learning goals: Monday, January 27, 11:59 PM on Canvas.
+P2 learning goals: Tuesday, February 3, 11:59 PM on Canvas.
 
-P2 due: Monday, February 3, at the start of class.
+P2 due: Tuesday, February 10, at the start of class.
 
-P2 learning results: Monday, February 3, 11:59 PM on Canvas.-->
+P2 learning results: Tuesday, February 10, 11:59 PM on Canvas.
 
 # P1: Build a mechanical car launcher
 
