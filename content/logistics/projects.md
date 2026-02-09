@@ -295,6 +295,23 @@ P3 final: Wednesday, February 12, at the start of class. You can submit document
 
 -->
 
+# P3: Make a puzzle ball
+
+In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](http://superplexus.com/perplexus/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous. So that every person has to interface with two other people, the start and end stages must be made by the same person.
+
+You will be given:
+
+* 2 steel balls, 9 mm in diameter: [McMaster 9292K44](https://www.mcmaster.com/9292K44)
+* 1 transparent plastic ball, approximate inner diameter 195 mm
+
+Restrictions:
+
+* Do not alter the big plastic balls. **Do not drill holes in them or glue things to them.** (This is for two reasons: I want to reuse them next year, but also, if you glue stuff in, you will very, very likely regret it. You need to be able to assemble, test, and then iterate. Adhesives do not iterate.)
+
+Prototype due: Tuesday, February 24, at the start of class. Bring something that we can at least try to test out. It's okay if it's not perfect, but it should be a legit attempt.
+
+Project due: Thursday, February 26, at the start of class.
+
 # P2: Build a sturdy wooden chair
 
 Build a chair out of wood. If you prefer, you can use a different material or build a different piece of furniture that holds up a person's weight.
