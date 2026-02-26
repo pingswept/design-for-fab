@@ -20,14 +20,14 @@
 |  10  | 3/17  | No class: spring break                     |                                                                        |
 |      | 3/19  | No class: spring break                     |                                                                        |
 |  11  | 3/24  | Knots, belts, chains, wire rope            |                                                                        |
-|      | 3/26  |                                            | [P4 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
+|      | 3/26  |                                            | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
 |  12  | 3/31  | Light, stiff structures in wood            |                                                                        |
 |      | 4/2   | Flexure design                             |                                                                        |
-|  13  | 4/7   |                                            |  |
+|  13  | 4/7   |                                            |                                                                        |
 |      | 4/9   |                                            |                                                                        |
-|  14  | 4/14  |                                            | [P6 fabrication plan and materials list due on Canvas](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
+|  14  | 4/14  |                                            | [P5 final due in class]() |
 |      | 4/16  |                                            |                                                                        |
-|  15  | 4/21  |                                            | [P6 trials on the patio, 10:30 AM]()                                   |
+|  15  | 4/21  |                                            | [P6 fabrication plan and materials list due on Canvas](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle)                                   |
 |      | 4/23  | Last class, life talk                      |                                                                        |
 |  16  | 4/28  | (reading period)                           |                                                                        |
 |      | 4/30  | (reading period)                           |                                                                        |
