@@ -16,14 +16,14 @@
 |  8   | 3/3   | Joining shafts                             |                                                                        |
 |      | 3/5   | Gears: spur/helical, bevel, worm           |                                                                        |
 |  9   | 3/10  | Preloading ball bearings                   |                                                                        |
-|      | 3/12  |                                            | [P5: demo something that moves](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
+|      | 3/12  |                                            | [P4: demo something that moves](https://designforfab.com/logistics/projects/#p4-gravity-powered-record-player) |
 |  10  | 3/17  | No class: spring break                     |                                                                        |
 |      | 3/19  | No class: spring break                     |                                                                        |
 |  11  | 3/24  | Knots, belts, chains, wire rope            |                                                                        |
-|      | 3/26  |                                            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
+|      | 3/26  |                                            | [P4 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
 |  12  | 3/31  | Light, stiff structures in wood            |                                                                        |
 |      | 4/2   | Flexure design                             |                                                                        |
-|  13  | 4/7   |                                            | [P6 design review in class](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
+|  13  | 4/7   |                                            |  |
 |      | 4/9   |                                            |                                                                        |
 |  14  | 4/14  |                                            | [P6 fabrication plan and materials list due on Canvas](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
 |      | 4/16  |                                            |                                                                        |
