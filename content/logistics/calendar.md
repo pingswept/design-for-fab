@@ -8,20 +8,20 @@
 |  4   | 2/3   | Holes and fasteners                        | [P2 due in class](https://designforfab.com/logistics/projects/) |
 |      | 2/5   |                                            |                                                                        |
 |  5   | 2/10  |                                            |                                                                        |
-|      | 2/12  |                                            | [P3 due in class](https://designforfab.com/logistics/projects/#p3-build-a-wind-powered-vehicle) |
+|      | 2/12  |                                            |                                                                        |
 |  6   | 2/17  | NO CLASS: President's Day                  |                                                                        |
 |      | 2/19  | Rob Treanor teaches about wood             |                                                                        |
 |  7   | 2/24  |                                            |                                                                        |
-|      | 2/26  | Modeling mechanical systems, take 2        | [P4 final due in class](https://designforfab.com/logistics/projects/#p4-build-a-sheet-metal-lamp) |
+|      | 2/26  | Modeling mechanical systems, take 2        | [P3 due in class](https://designforfab.com/logistics/projects/#p3-make-a-puzzle-ball) |
 |  8   | 3/3   | Joining shafts                             |                                                                        |
 |      | 3/5   | Gears: spur/helical, bevel, worm           |                                                                        |
 |  9   | 3/10  | Preloading ball bearings                   |                                                                        |
-|      | 3/12  |                                            | [P5 prototype due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
+|      | 3/12  |                                            | [P5: demo something that moves](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
 |  10  | 3/17  | No class: spring break                     |                                                                        |
 |      | 3/19  | No class: spring break                     |                                                                        |
 |  11  | 3/24  | Knots, belts, chains, wire rope            |                                                                        |
-|      | 3/26  |                                            |                                                                        |
-|  12  | 3/31  | Light, stiff structures in wood            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
+|      | 3/26  |                                            | [P5 final due in class](https://designforfab.com/logistics/projects/#p5-gravity-powered-record-player) |
+|  12  | 3/31  | Light, stiff structures in wood            |                                                                        |
 |      | 4/2   | Flexure design                             |                                                                        |
 |  13  | 4/7   |                                            | [P6 design review in class](https://designforfab.com/logistics/projects/#p6-human-powered-vehicle) |
 |      | 4/9   |                                            |                                                                        |
