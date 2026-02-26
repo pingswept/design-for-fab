@@ -222,30 +222,6 @@ You will be given:
 * Wednesday, April 23, 10:30 AM: preliminary trials on the course during class. This is mandatory.
 * Friday, May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
 
-# P5: Gravity-powered record player
-
-Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use paper, folded sheet metal, or the like. You might make a trigger mechanism that would start the record playing.
-
-### You will be given:
-
-*   1 vinyl record
-*   4 or 5 steel needles
-*   As many bricks as you request, within reason
-
-Please set your learning goals for the project on Canvas as soon as you have time.
-
-### A few pieces of advice
-
-As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
-
-You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
-
-For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
-
-P5 proto-design: Wednesday, March 12, at the start of class. The record should spin under gravity power by this date. Please submit some calculations on Canvas that suggest your record player could plausibly play for 4.5 minutes.
-
-P5 final: Monday, March 31, at the start of class.
-
 # P4: Build a sheet metal lamp
 
 Build a lamp out of sheet metal. The target here is two-fold: experience with sheet metal and experience with aesthetic design.
@@ -294,6 +270,30 @@ P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
 P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
 
 -->
+
+# P4: Gravity-powered record player
+
+Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use paper, folded sheet metal, or the like. You might make a trigger mechanism that would start the record playing.
+
+### You will be given:
+
+*   1 vinyl record
+*   4 or 5 steel needles
+*   As many bricks as you request, within reason
+
+Please set your learning goals for the project on Canvas as soon as you have time.
+
+### A few pieces of advice
+
+As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
+
+You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
+
+For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
+
+P4 proto-design: Thursday, March 12, at the start of class. The record should spin under gravity power by this date. Please submit some calculations on Canvas that suggest your record player could plausibly play for 4.5 minutes.
+
+P4 final: Thursday, March 26, at the start of class.
 
 # P3: Make a puzzle ball
 
