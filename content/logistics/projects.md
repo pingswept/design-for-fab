@@ -248,7 +248,7 @@ P3 final: Wednesday, February 12, at the start of class. You can submit document
 
 # P5: Element of a 20ish-piece kinetic art installation
 
-Build a 300 mm x 450 mm panel that has the following characteristics:
+With a partner of your choosing, build a 300 mm x 450 mm panel that has the following characteristics:
 
 1.  it looks cool when viewed from one side,
 2.  it connects to a shaft in one corner that, when slowly rotated with a torque of less than 0.1 Nm, makes its appearance change through purely mechanical means,
@@ -266,6 +266,8 @@ The panels, if you assent, will be installed in the panes of the windows of the 
 The exact dimensions and more subtle mechanical details will be more thoroughly specified by Tuesday, March 31.
 
 P5 brainstorm review: Tuesday, March 31, at the start of class.
+
+P5 test assembly: Tuesday, April 12, in class
 
 P5 final: Thursday, April 14, at the start of class.
 
