@@ -252,8 +252,9 @@ With a partner of your choosing, build a 300 mm x 450 mm panel that has the foll
 
 1.  it looks cool when viewed from one side,
 2.  it connects to a shaft in one corner that, when slowly rotated with a torque of less than 0.1 Nm, makes its appearance change through purely mechanical means,
-3.  it has no words, logos, or other explicit messages, and
-4.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
+3.  it loads its shaft with nearly constant torque,
+4.  it has no words, logos, or other explicit messages, and
+5.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
 
 The panels, if you assent, will be installed in the panes of the windows of the Nolop red zone that face the SEC patio. Each panel will be driven by a gearmotor. The motors will slowly rotate, turning on at dusk and turning off at midnight. Passersby will be entranced by the luminous wonder you have created.
 
