@@ -6,31 +6,6 @@ draft: false
 
 --------------------------------------------------------- HEY, YOU FOUND THE OLD PROJECT DESCRIPTIONS FROM 2020-25! THESE ARE NOT THE SAME AS WHAT WE WILL DO IN 2026! We might repeat a couple, but don't rely on that for any major life decisions. ---------------------------------------------------------
 
-# P5: Element of a 22-piece kinetic art installation
-
-Build a 11" x 16" panel that has the following characteristics:
-
-1.  it is largely translucent,
-2.  it has a timing sprocket in the lower left corner that, when slowly rotated with a torque of less than 10 oz-in, makes its appearance change through purely mechanical means,
-3.  it has no words, logos, or other explicit messages, and
-4.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
-
-The panels, if you assent, will be installed in the 11" x 16" panes of the windows of the Nolop red zone that face the SEC patio. Each panel will be driven by a stepper motor. The motors will slowly rotate, turning on at dusk and turning off at midnight. Passersby will be entranced by the luminous wonder you have created.
-
-### You will be given:
-
-*   1 GT2 timing belt pulley with a 5 mm bore
-*   [1 flange coupler with a 5 mm bore](https://www.amazon.com/Coupling-Support-Hardness-Fittings-Connector/dp/B07L1FMBBC/)
-*   as much 5 mm stainless steel rod as you need, within reason
-
-The exact dimensions and more subtle mechanical details will be more thoroughly specified by Tuesday, March 10.
-
-P5 design review: Tuesday, March 10, at the start of class.
-
-P5 proto: Tuesday, March 24, at the start of class.
-
-P5 final: Tuesday, March 31, at the start of class.
-
 # P3: Folded mask or costume
 
 Make a 3D folded mask or costume. It need not be laser-cut, but you must make a CAD model that shows the mask or costume in its folded and unfolded states. It should not be traced from an existing design of picture (unless you also drew the picture). It can cover just your face, or your whole head, but it should be 3 dimensional. It can be made of anything that folds: chipboard, thick paper, thin sheet metal, or anything else you can get. Ancillary decorations, like mustaches, are okay, but the core of the mask should be folded. It should be secured to your head somehow, so you can actually wear it.
@@ -270,6 +245,29 @@ P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
 P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
 
 -->
+
+# P5: Element of a 20ish-piece kinetic art installation
+
+Build a 300 mm x 450 mm panel that has the following characteristics:
+
+1.  it looks cool when viewed from one side,
+2.  it connects to a shaft in one corner that, when slowly rotated with a torque of less than 0.1 Nm, makes its appearance change through purely mechanical means,
+3.  it has no words, logos, or other explicit messages, and
+4.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
+
+The panels, if you assent, will be installed in the panes of the windows of the Nolop red zone that face the SEC patio. Each panel will be driven by a gearmotor. The motors will slowly rotate, turning on at dusk and turning off at midnight. Passersby will be entranced by the luminous wonder you have created.
+
+### You will be given:
+
+* (Collectively as a class) a large metal frame with gearmotors and shafts attached
+* Lots of colored cellophane
+* Other mechanical components that you request
+
+The exact dimensions and more subtle mechanical details will be more thoroughly specified by Tuesday, March 31.
+
+P5 brainstorm review: Tuesday, March 31, at the start of class.
+
+P5 final: Thursday, April 14, at the start of class.
 
 # P4: Gravity-powered record player
 
