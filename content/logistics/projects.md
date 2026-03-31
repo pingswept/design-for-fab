@@ -266,6 +266,8 @@ The panels, if you assent, will be installed in the panes of the windows of the 
 
 The exact dimensions and more subtle mechanical details will be more thoroughly specified by Tuesday, March 31.
 
+Here is a mechanical drawing of the frame and drive system: https://cad.onshape.com/documents/304dd947cffe43999f775dbb/w/b5d019c1a5d10a4d9609d8b7/e/5b7bfcce3cf936338b9ad756
+
 P5 brainstorm review: Tuesday, March 31, at the start of class.
 
 P5 test assembly: Tuesday, April 12, in class
