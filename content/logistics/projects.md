@@ -270,9 +270,9 @@ Here is a mechanical drawing of the frame and drive system: https://cad.onshape.
 
 P5 brainstorm review: Tuesday, March 31, at the start of class.
 
-P5 test assembly: Tuesday, April 12, in class
+P5 test assembly: Tuesday, April 14, in class
 
-P5 final: Thursday, April 14, at the start of class.
+P5 final: Thursday, April 16, at the start of class.
 
 # P4: Gravity-powered record player
 
