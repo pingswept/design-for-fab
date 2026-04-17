@@ -244,6 +244,64 @@ P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
 
 P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
 
+
+
+# P6: TTC cog railway
+
+Build a cog railway to allow local denizens to tour the TTC patio.
+
+We will split the class into 10 teams of 3 or 4 people. Each team will complete 1 of the 10 subprojects below. Together, we will have a cog railway which we will charge your friends to ride.
+
+![](/img/cog-railway.png)
+
+### THE STATION ###
+
+* Build a level section of track that allows people to board the railway safely. This will likely require stairs and railings. This section probably requires a rack to allow the engine cog to accelerate the train.
+
+### THE HAIRPIN ###
+
+* Build a corner that connects the station to the descent smoothly. Work with the engine team to insure that the train can make it around the corner. This section probably requires a rack to allow the engine cog to accelerate the train.
+
+### THE DESCENT ###
+
+* Build a section of track that allows the train to descend the stairs. The slope should be as shallow as possible while staying within 24 inches of the ground.
+* At the bottom of the descent, the train should be aimed toward the overpass. Coordinate with the overpass team to make sure that works.
+
+### THE OVERPASS ###
+
+* Build a structure that allows the train to pass over the garden bed without touching the plants. The span is around 14 feet. This section may require a rack to allow the train to climb up the overpass, but you might be able to avoid that if you get the descent team to deliver the train at the right height.
+
+### THE TURNTABLE ###
+
+* Build a structure that can rotate the train almost 180 degrees and align the train with a second set of tracks. Coordinate with the overpass team to make sure the structure is high enough that the train doesn't shoot off the end.
+
+### THE LONG ASCENT ###
+
+* Build a long, nearly straight section of track from the turntable to the drawbridge. Build the structure on top of the hill, not on the side of it. This section probably requires a rack in some section to allow the train to ascend.
+
+### THE DRAWBRIDGE ###
+
+* Build a corner and a straight, level section of track. The straight section should be a drawbridge, so that people can still enter the patio while construction is going on.
+
+### THE HILL CLIMB ###
+
+* Build a curve and a straight section of track that connects the drawbridge back to the station. This section definitely requires a rack in some section to allow the train to ascend.
+
+### THE ENGINE ###
+
+* Build a pedal-powered vehicle that ca
+
+### You will be given:
+
+*   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
+*   Other materials or parts as needed
+
+### A few notes about safety:
+
+* At no point should passsengers feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
+
+P6 due date: Monday, May 4, high noon (as mandated by the university).
+
 -->
 
 # P5: Element of a 20ish-piece kinetic art installation
