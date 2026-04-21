@@ -248,7 +248,7 @@ P3 final: Wednesday, February 12, at the start of class. You can submit document
 
 # P6: The TTC cog railway #
 
-### A pastoral journey in 10 parts ###
+## A pastoral journey in 10 parts ##
 
 Build a cog railway to allow local denizens to tour the TTC patio.
 
@@ -307,7 +307,9 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 * At no point should passsengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
 
 P6 agreement on target heights: Monday, May 27, 11:59 PM
+
 P6 suggested work sessions (not mandatory, but it's more fun if we can all work together): 1-4 PM on Tuesday, Wednesday, Thursday, and Friday, April 28-May 1
+
 P6 due date: Monday, May 4, high noon (as mandated by the university).
 
 # P5: Element of a 20ish-piece kinetic art installation
