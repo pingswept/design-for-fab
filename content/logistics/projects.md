@@ -246,7 +246,7 @@ P3 final: Wednesday, February 12, at the start of class. You can submit document
 
 
 
-# P6: TTC cog railway
+P6: The TTC cog railway: a pastoral journey in 10 parts
 
 Build a cog railway to allow local denizens to tour the TTC patio.
 
@@ -269,11 +269,11 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 
 ### THE OVERPASS ###
 
-* Build a structure that allows the train to pass over the garden bed without touching the plants. The span is around 14 feet. This section may require a rack to allow the train to climb up the overpass, but you might be able to avoid that if you get the descent team to deliver the train at the right height.
+* Build a structure that allows the train to pass over the garden bed without touching the plants. The span is around 14 feet. This section may require a rack to allow the train to climb up the overpass, but you might be able to avoid that if you get the descent team to deliver the train at the right height. Note that the overpass needs to be able to carry the engine, the passenger car, and the passengers without collapsing.
 
 ### THE TURNTABLE ###
 
-* Build a structure that can rotate the train almost 180 degrees and align the train with a second set of tracks. Coordinate with the overpass team to make sure the structure is high enough that the train doesn't shoot off the end.
+* Build a structure that can rotate the train almost 180 degrees and align the train with a second set of tracks. Coordinate with the overpass team to make sure the structure is high enough that the train doesn't shoot off the end. Note that the turntable should be able to rotate the engine and the passenger car at the same time.
 
 ### THE LONG ASCENT ###
 
@@ -289,17 +289,23 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 
 ### THE ENGINE ###
 
-* Build a pedal-powered vehicle that ca
+* Build a pedal-powered vehicle that can tow a passenger car around the railway loop. The engine team is charged with specifying the details of the cog system.
+
+### THE PASSENGER CAR ###
+
+* Build a railway car that can be towed around the railway loop while carrying 0-4 passengers. It should be able to fit around all the corners and not derail.
 
 ### You will be given:
 
-*   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
+*   Access to a large pile of 1x4's, 2x4's, 2x3's and 1/2 inch plywood
 *   Other materials or parts as needed
 
 ### A few notes about safety:
 
-* At no point should passsengers feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
+* At no point should passsengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
 
+P6 agreement on target heights: Monday, May 27, 11:59 PM
+P6 suggested work sessions (not mandatory, but it's more fun if we can all work together): 1-4 PM on Tuesday, Wednesday, Thursday, and Friday, April 28-May 1
 P6 due date: Monday, May 4, high noon (as mandated by the university).
 
 -->
