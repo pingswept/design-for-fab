@@ -244,8 +244,7 @@ P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
 
 P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
 
-
-
+-->
 P6: The TTC cog railway: a pastoral journey in 10 parts
 
 Build a cog railway to allow local denizens to tour the TTC patio.
@@ -307,8 +306,6 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 P6 agreement on target heights: Monday, May 27, 11:59 PM
 P6 suggested work sessions (not mandatory, but it's more fun if we can all work together): 1-4 PM on Tuesday, Wednesday, Thursday, and Friday, April 28-May 1
 P6 due date: Monday, May 4, high noon (as mandated by the university).
-
--->
 
 # P5: Element of a 20ish-piece kinetic art installation
 
