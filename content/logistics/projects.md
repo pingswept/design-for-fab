@@ -297,6 +297,8 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 
 * Build a railway car that can be towed around the railway loop while carrying 0-4 passengers. It should be able to fit around all the corners and not derail.
 
+![](/img/cog-railway-spec-04-21-26.png)
+
 ### You will be given:
 
 *   Access to a large pile of 1x4's, 2x4's, 2x3's and 1/2 inch plywood
