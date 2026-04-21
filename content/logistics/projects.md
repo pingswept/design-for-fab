@@ -245,7 +245,10 @@ P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
 P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
 
 -->
-P6: The TTC cog railway: a pastoral journey in 10 parts
+
+# P6: The TTC cog railway #
+
+### A pastoral journey in 10 parts ###
 
 Build a cog railway to allow local denizens to tour the TTC patio.
 
