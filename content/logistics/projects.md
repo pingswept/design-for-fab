@@ -256,18 +256,18 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 
 ### Section responsibilities ###
 
-| Team                           | Section              |
-|:------------------------------:|:--------------------:|
-| Ryan, Ben, Vanessa, Leia       | THE DRAWBRIDGE       |
-| Patrick, Liam, Natalie         | THE DESCENT          |
-| Alex, Robert, Nathan           | THE PASSENGER CAR    |
-| Jana, Colette, Soraya          | THE OVERPASS         |
-| Quinn, Cade, Theo, Sam M.      | THE ENGINE           |
-| Elias L-B, James, Sam B. Conor | THE HAIRPIN          |
-| Josh, Kekoa, Charlie, Elias B. | THE LONG ASCENT      |
-| Audrey, Megan, Kilder          | THE STATION          |
-| Calum, Owen, Caroline          | THE TURNTABLE        |
-| Leslie, Julia, Chris, Alliyah  | THE HILL CLIMB       |
+| Team                            | Section              |
+|:-------------------------------:|:--------------------:|
+| Ryan, Ben, Vanessa, Leia        | THE DRAWBRIDGE       |
+| Patrick, Liam, Natalie          | THE DESCENT          |
+| Alex, Robert, Nathan            | THE PASSENGER CAR    |
+| Jana, Colette, Soraya           | THE OVERPASS         |
+| Quinn, Cade, Theo, Sam M.       | THE ENGINE           |
+| Elias L-B, James, Sam B., Conor | THE HAIRPIN          |
+| Josh, Kekoa, Charlie, Elias B.  | THE LONG ASCENT      |
+| Audrey, Megan, Kilder           | THE STATION          |
+| Calum, Owen, Caroline           | THE TURNTABLE        |
+| Leslie, Julia, Chris, Alliyah   | THE HILL CLIMB       |
 
 
 ![](/img/cog-railway.png)
