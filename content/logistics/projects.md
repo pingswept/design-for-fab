@@ -297,6 +297,10 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 
 * Build a railway car that can be towed around the railway loop while carrying 0-4 passengers. It should be able to fit around all the corners and not derail.
 
+### Track specification ###
+
+The image below shows the cross section of the track that you must build. The red hatched area shows the area where wheels should be able to pass through. Do not put anything in the red hatched area.
+
 ![](/img/cog-railway-spec-04-21-26-0340.png)
 
 ### You will be given:
@@ -306,13 +310,13 @@ We will split the class into 10 teams of 3 or 4 people. Each team will complete 
 
 ### A few notes about safety:
 
-* At no point should passsengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
+* At no point should passengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
 
-P6 agreement on target heights: Monday, May 27, 11:59 PM
+### Due dates ###
 
-P6 suggested work sessions (not mandatory, but it's more fun if we can all work together): 1-4 PM on Tuesday, Wednesday, Thursday, and Friday, April 28-May 1
-
-P6 due date: Monday, May 4, high noon (as mandated by the university).
+* P6 agreement on target heights: Monday, May 27, 11:59 PM
+* P6 suggested work sessions (not mandatory, but it's more fun if we can all work together): 1-4 PM on Tuesday, Wednesday, Thursday, and Friday, April 28-May 1
+* P6 due date: Monday, May 4, high noon (as mandated by the university)
 
 # P5: Element of a 20ish-piece kinetic art installation
 
