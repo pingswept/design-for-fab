@@ -14,13 +14,13 @@ The point of the class is to provide you with hands-on experience in engineering
 
 Typically, the course consists of 6 projects, gradually increasing in length and severity. Most of the projects are solo, but there are usually 2 group projects.
 
-| Project | Focus                 | Example |
+| Project | Focus                 | Example projects (different each year) |
 |:-------:|:---------------------:|:-------:|
-|    1    | Simple mechanism      | Matchbox car launcher |
-|    2    | Gear train            | Wind-powered car that drives upwind |
+|    1    | Simple mechanism      | Matchbox car launcher or hidden mechanism box for kids |
+|    2    | Basic woodworking     | A chair |
 |    3    | CAD and collaboration | Perplexus-like puzzle ball |
-|    4    | Mathematical modeling and more complex mechanisms | Gravity-powered record player |
-|    5    | Whimsical arty project | Kinetic window sculpture |
+|    4    | Mathematical modeling and gear trains | Gravity-powered record player or wind-powered car that drives upwind |
+|    5    | Whimsical arty project | Kinetic window sculpture or sheet metal lamps |
 |    6    | Large collaborative team project | Cranes, human-powered vehicles, or a cog railway system |
 
 ## Who should take this class? ##
