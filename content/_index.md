@@ -4,11 +4,30 @@ type: homepage
 draft: false
 ---
 
-# ME 93: Design for Fabrication
+# ME 46: Design for Fabrication
 
-_Design for Fabrication_ is an engineering design class first taught by Brandon Stafford in the spring of 2020 at Tufts University, now returning for spring 2026.
+_Design for Fabrication_ is a mechanical engineering design class first taught by Brandon Stafford in the spring of 2020 at Tufts University, now returning for spring 2027.
+
+## Course overview ##
 
 The point of the class is to provide you with hands-on experience in engineering fabrication. We build a wide variety of mechanisms and mechanical devices in the class.
+
+Typically, the course consists of 6 projects, gradually increasing in length and severity. Most of the projects are solo, but there are usually 2 group projects.
+
+| Project | Focus                 | Example |
+|:-------:|:---------------------:|:-------:|
+|    1    | Simple mechanism      | Matchbox car launcher |
+|    2    | Gear train            | Wind-powered car that drives upwind |
+|    3    | CAD and collaboration | Perplexus-like puzzle ball |
+|    4    | Mathematical modeling and more complex mechanisms | Gravity-powered record player |
+|    5    | Whimsical arty project | Kinetic window sculpture |
+|    6    | Large collaborative team project | Cranes, human-powered vehicles, or a cog railway system |
+
+## Who should take this class? ##
+
+Everyone is welcome to enroll in Design for Fabrication. Historically, the class fills with seniors of various engineering majors because they get enrollment priority over juniors and A&S students. Most of the students are mechanical engineers, but we've had students from biomedical engineering, electrical engineering, engineering physics, and data science before. The students who perform best are those who enjoy building stuff. **Fabrication can be time-intensive and often frustrating. Do not take this class just because you think that it will be easier than some other engineering elective.**
+
+## Projects from the past ##
 
 Below are puzzle balls built by teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration.
 
