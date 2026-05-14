@@ -10,7 +10,7 @@ One more requirement: **You must make (and retain or document) three prototypes.
 
 You will be given: nothing, but if you want thin aluminum sheet, we can get it by Friday.
 
-# Px: Human-powered vehicle (final project, 2023?) #
+# Px: Human-powered vehicle (final project, 2022) #
 
 Your mission is, as a team of 4, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below. You start at the green line and end at the green star.
 
@@ -31,7 +31,7 @@ As usual, you should develop 1-3 learning goals for the project, in the usual fo
 1. Your team must spend at least $100 of Tufts' money. To order stuff, post a message in the #designforfab channel in the Nolop Slack workspace. Brandon will order whatever you ask for. The upper limit is $150ish. You are welcome to buy more stuff if you want.
 2. 2x3 lumber will be available in the Nolop store for around $5/8 ft. Also, some plywood, 1/4", $10 per 2x4 ft panel. We also have lots of aluminum framing.
 
-# P2: Build a wind-powered car #
+# Px: Build a wind-powered car #
 
 Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
 
@@ -41,15 +41,30 @@ A few guidelines to help your learning:
 * If your design uses a propeller, do not 3D print a propeller, unless it is entirely of your own design. This is to encourage you to learn how to design a propeller.
 * Your vehicle does NOT have to be a car. Wheels are cool, but other methods could also work, depending on your goals. 
 
-### P2 due dates
+# Px: Lifting machine
 
-P2 learning goals: Tuesday, February 8, 11:59 PM on Canvas.
+Build a human-powered machine for lifting a cinderblock onto the "roof" of a "building."
 
-P2 proto: Thursday, February 10, at the start of class.
+Your machine should have the characteristics listed below.
 
-P2 final: Tuesday, February 15, at the start of class. You can submit documentation up until late Tuesday night, but we will be testing vehicles in class.
+*  Your machine must be operated by one person in your group.
+*  The operation of the machine should not rely on the operator's strength in any substantial way-- anyone in the class should be able to operate the machine, not just the strongest among us.
+*  Your machine should be stout enough to lift a plywood-capped cinderblock weighing around 30 pounds.
+*  You should not pre-attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
+*  For safety, your machine should not lift the cinderblock above the operator's body, lest it fall on them. Watch out for crushed feet too.
+*  The base of your machine must remain in the 48 inch wide zone next to the "building".
+*  The cinderblock should be deposited in the lower level of the building roof.
 
-# P6: Lifting machine 2.0
+![](/img/lifting-machine-diagram.jpg)
+
+### You will be given:
+
+*   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
+*   If you decide to use a cable-driven mechanism, 1/16" steel cable
+*   As with the record player, as many bricks as you request, within reason
+*   Other materials or parts as needed
+
+# Px: Lifting machine 2.0
 
 Build a human-powered machine for lifting a enclosure containing one of your team members from the lower patio to the upper patio of the SEC.
 
@@ -78,42 +93,7 @@ Your machine should have the characteristics listed below.
 *  This is probably obvious, but if you can't lift the box of cinderblocks safely, do not try to lift a person.
 *  Scissor clamps that rely on friction can require a lot of compressive force. If you're using a scissor clamp, try to grip the top 3-6 inches of the box, where the box is sturdiest.
 
-P6 proto: Thursday, April 27, at the start of class.
-
-P6 final: Monday, May 8, 3:30 PM (as mandated by the university).
-
-![](/img/foreshadow.png)
-
-# P5: Lifting machine
-
-Build a human-powered machine for lifting a cinderblock onto the "roof" of a "building."
-
-Your machine should have the characteristics listed below.
-
-*  Your machine must be operated by one person in your group.
-*  The operation of the machine should not rely on the operator's strength in any substantial way-- anyone in the class should be able to operate the machine, not just the strongest among us.
-*  Your machine should be stout enough to lift a plywood-capped cinderblock weighing around 30 pounds.
-*  You should not pre-attach straps or adhesives or anything like that to the load. This suggests that you will need to make some kind of end effector that can grip the cinderblock. Do not damage the cinderblock if you can help it.
-*  For safety, your machine should not lift the cinderblock above the operator's body, lest it fall on them. Watch out for crushed feet too.
-*  The base of your machine must remain in the 48 inch wide zone next to the "building".
-*  The cinderblock should be deposited in the lower level of the building roof.
-
-![](/img/lifting-machine-diagram.jpg)
-
-### You will be given:
-
-*   Access to a large pile of 1x4's, 2x4's, and 1/2 inch plywood
-*   If you decide to use a cable-driven mechanism, 1/16" steel cable
-*   As with the record player, as many bricks as you request, within reason
-*   Other materials or parts as needed
-
-P5 design review: Thursday, April 6, at the start of class.
-
-P5 proto: Tuesday, April 11, at the start of class.
-
-P5 final: Thursday, April 20, at the start of class.
-
-# P3: Make a puzzle ball
+# Px: Make a puzzle ball
 
 In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](http://superplexus.com/perplexus/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous.
 
@@ -126,11 +106,7 @@ Restrictions:
 
 * Do not alter the big plastic balls. **Do not drill holes in them or glue things to them.** (This is for two reasons: I want to reuse them next year, but also, if you glue stuff in, you will very, very likely regret it. You need to be able to assemble, test, and then iterate. Adhesives do not iterate.)
 
-Prototype due: Tuesday, February 21, at the start of class.
-
-Project due: Tuesday, February 28, at the start of class.
-
-# P2: Hidden mechanism box for kids
+# Px: Hidden mechanism box for kids
 
 Make a mechanism in a box that connects two opposing rods and survives exploration by kids. It should have the properties listed below.
 
@@ -143,11 +119,7 @@ Make a mechanism in a box that connects two opposing rods and survives explorati
 
 You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
 
-Prototype due: Tuesday, February 7, at the start of class. The prototype should test the mechanism, but need not be sealed up.
-
-Project due: Thursday, February 9, at the start of class. 
-
-# P6: Human-powered vehicle
+# Px: Human-powered vehicle
 
 Your mission is, as a team of 2 or 3, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below.
 
@@ -178,14 +150,7 @@ You will be given:
 
 2x4 and 2x3 lumber and 15/32 inch plywood will be available in the red zone by April 7. If there are additional materials that you need, please let Brandon know as soon as you can. Brandon/Hannah/Hannah's truck will be making multiple Home Depot runs as the project progresses, but not at midnight. (Home Depot closes at 10 PM.)
 
-### Trials / due dates
-
-* Monday, April 7, 10:30 AM: Informal design review: show the class a drawing of your vehicle.
-* Monday, April 14, 10:30 AM: Fabrication plan and materials list due on Canvas
-* Wednesday, April 23, 10:30 AM: preliminary trials on the course during class. This is mandatory.
-* Friday, May 2, high noon: final trials on the course. Your friends and family are welcome to attend.
-
-# P4: Build a sheet metal lamp
+# Px: Build a sheet metal lamp
 
 Build a lamp out of sheet metal. The target here is two-fold: experience with sheet metal and experience with aesthetic design.
 
@@ -202,13 +167,7 @@ A few guidelines to help your learning:
 * We have two hand punches in Nolop.
 * If you want to waterjet an intricate pattern, don't. It will take forever and use a huge amount of garnet. Instead, search for "perforated metal" or "cloverleaf sheet." You could split a sheet with a friend if it's expensive. Home Depot has big sheets; Amazon has smaller stuff. You can also lasercut other materials as panel inserts.
 
-### P4 due dates
-
-P4 learning goals: Wednesday, February 19, 11:59 PM on Canvas.
-
-P4 final: Wednesday, February 26, at the start of class. You can submit documentation up until late Wednesday night, but please bring your lamp to class.
-
-# P3: Build a wind-powered vehicle
+# Px: Build a wind-powered vehicle
 
 Build a small vehicle (less than 40 cm long) that can drive **upwind** without any source of energy other than the wind. We will use a fan for testing.
 
@@ -226,35 +185,13 @@ A few guidelines to help your learning:
 * More technical info about [wind turbine blade design](/img/erich-hau-rotor-design.pdf) from Erich Hau's 2005 book, Wind Turbines. I would start by looking carefully at figure 5.10, and then going back to look at optimal tip speed ratio in figure 5.7.
 * You might also be interested in this [Javascript airfoil simulator](/foilsimjs/FoilSimStudent.html). You could mess around with it to create an airfoil profile that maximizes lift/drag ratio, and then click the "geometry" button to get the XY coordinates of the profile, which you could then pull into Onshape.
 
-### P3 due dates
-
-P3 learning goals: Monday, February 3, 11:59 PM on Canvas.
-
-P3 final: Wednesday, February 12, at the start of class. You can submit documentation up until late Wednesday night, but we will be testing vehicles in class.
-
-# P6: The TTC cog railway #
+# Px: The TTC cog railway #
 
 ## A pastoral journey in 10 parts ##
 
 Build a cog railway to allow local denizens to tour the TTC patio.
 
 We will split the class into 10 teams of 3 or 4 people. Each team will complete 1 of the 10 subprojects below. Together, we will have a cog railway which we will charge your friends to ride.
-
-### Section responsibilities ###
-
-| Team                            | Section              |
-|:-------------------------------:|:--------------------:|
-| Ryan, Ben, Vanessa, Leia        | THE DRAWBRIDGE       |
-| Patrick, Liam, Natalie          | THE DESCENT          |
-| Alex, Robert, Nathan            | THE PASSENGER CAR    |
-| Jana, Colette, Soraya           | THE OVERPASS         |
-| Quinn, Cade, Theo, Sam M.       | THE ENGINE           |
-| Elias L-B, James, Sam B., Conor | THE HAIRPIN          |
-| Josh, Kekoa, Charlie, Elias B.  | THE LONG ASCENT      |
-| Audrey, Megan, Kilder           | THE STATION          |
-| Calum, Owen, Caroline           | THE TURNTABLE        |
-| Leslie, Julia, Chris, Alliyah   | THE HILL CLIMB       |
-
 
 ![](/img/cog-railway.png)
 
@@ -314,13 +251,7 @@ The image below shows the cross section of the track that you must build. The re
 
 * At no point should passengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
 
-### Due dates ###
-
-* P6 agreement on target heights: Monday, May 27, 11:59 PM
-* P6 suggested work sessions (not mandatory, but it's more fun if we can all work together): 1-4 PM on Tuesday, Wednesday, Thursday, and Friday, April 28-May 1
-* P6 due date: Monday, May 4, high noon (as mandated by the university)
-
-# P5: Element of a 20ish-piece kinetic art installation
+# Px: Element of a 20ish-piece kinetic art installation
 
 With a partner of your choosing, build a 300 mm x 450 mm panel that has the following characteristics:
 
@@ -342,13 +273,7 @@ The exact dimensions and more subtle mechanical details will be more thoroughly 
 
 Here is a mechanical drawing of the frame and drive system: https://cad.onshape.com/documents/304dd947cffe43999f775dbb/w/b5d019c1a5d10a4d9609d8b7/e/5b7bfcce3cf936338b9ad756
 
-P5 brainstorm review: Tuesday, March 31, at the start of class.
-
-P5 test assembly: Tuesday, April 14, in class
-
-P5 final: Thursday, April 16, at the start of class.
-
-# P4: Gravity-powered record player #
+# Px: Gravity-powered record player #
 
 Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use paper, folded sheet metal, or the like. You might make a trigger mechanism that would start the record playing.
 
@@ -368,28 +293,7 @@ You will probably also find that the sound of the needle is surprisingly audible
 
 For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
 
-P4 proto-design: Thursday, March 12, at the start of class. The record should spin under gravity power by this date. Please submit some calculations on Canvas that suggest your record player could plausibly play for 4.5 minutes.
-
-P4 final: Thursday, March 26, at the start of class.
-
-# P3: Make a puzzle ball
-
-In a team of 3, design and fabricate a spherical puzzle similar to the [Perplexus](http://superplexus.com/perplexus/). Your puzzle should contain a total of at least 15 puzzle stages. Each team member should fabricate at least 5 stages; each person's stages don't have to be contiguous. So that every person has to interface with two other people, the start and end stages must be made by the same person.
-
-You will be given:
-
-* 2 steel balls, 9 mm in diameter: [McMaster 9292K44](https://www.mcmaster.com/9292K44)
-* 1 transparent plastic ball, approximate inner diameter 195 mm
-
-Restrictions:
-
-* Do not alter the big plastic balls. **Do not drill holes in them or glue things to them.** (This is for two reasons: I want to reuse them next year, but also, if you glue stuff in, you will very, very likely regret it. You need to be able to assemble, test, and then iterate. Adhesives do not iterate.)
-
-Prototype due: Tuesday, February 24, at the start of class. Bring something that we can at least try to test out. It's okay if it's not perfect, but it should be a legit attempt.
-
-Project due: Thursday, February 26, at the start of class.
-
-# P2: Build a sturdy wooden chair
+# Px: Build a sturdy wooden chair
 
 Build a chair out of wood. If you prefer, you can use a different material or build a different piece of furniture that holds up a person's weight.
 
@@ -410,15 +314,7 @@ A few guidelines to help your learning:
 * If you feel the need to cut a 2x4 the long way, just use a 2x2 instead. We have a pile of those.
 * We also have a pile of 2x6's that are fair game.
 
-### P2 due dates
-
-P2 learning goals: Tuesday, February 3, 11:59 PM on Canvas.
-
-P2 due: Tuesday, February 10, at the start of class.
-
-P2 learning results: Tuesday, February 10, 11:59 PM on Canvas.
-
-# P1: Build a mechanical car launcher
+# Px: Build a mechanical car launcher
 
 Design, prototype, and refine a mechanism that can reliably hold and release a toy car with enough force to launch a toy car through a hoop.
 
@@ -452,6 +348,3 @@ For the final due date, bring your car launcher to class, and we'll test them ou
 
 By midnight on the due date, submit some documentation: a screenshot of CAD model or a picture of your drawings, a PDF of your calculations, and a picture of what you built. If you are proud of what you built, make sure that the picture makes it look good.
 
-## P1 due dates
-
-P1 design, calculations, some design validation: Tuesday, January 20, in class.
