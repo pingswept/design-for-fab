@@ -33,15 +33,23 @@ The final project is usually a large, whole-class collaboration, like the cog ra
 
 ![](/img/cog-railway-from-above-2026-05.jpg)
 
-We have also built cranes and various human-powered vehicles.
-
 <video width="720" height="1280" controls>
   <source src="/img/cog-railway-instagram-2026-05.mp4" type="video/mp4">
-  Your browser does not support this kind of video, so I guess you won't be able to see this cool video.
+  Your browser does not support this kind of video, so I guess you won't be able to see this cool video of Cade pushing me around the loop. It's okay; I needed a haircut at the time, so I'm fine with it.
 </video>
 
-![](/img/daetz-mulcahy-crane-2023-05.mov)
+In 2023, we built cranes.
+
+<video width="720" height="1280" controls>
+  <source src="/img/daetz-mulcahy-crane-2023-05.mp4" type="video/mp4">
+  Your browser does not support this kind of video, so I guess you won't be able to see this cool video of Andrew and Patrick's crane.
+</video>
+
 ![](/img/building-cranes-late-at-night-2023-05.jpg)
+
+We've also built various human-powered vehicles.
+
+![](/img/human-powered-vehicle-2025-05.jpg)
 
 Some years, we build Perplexus-like puzzle balls in teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration.
 
