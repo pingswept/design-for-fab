@@ -40,7 +40,7 @@ The final project is usually a large, whole-class collaboration, like the cog ra
 
 In 2023, we built cranes.
 
-<video width="1920" height="1080" controls>
+<video width="960" height="540" controls>
   <source src="/img/daetz-mulcahy-crane-2023-05.mp4" type="video/mp4">
   Your browser does not support this kind of video, so I guess you won't be able to see this cool video of Andrew and Patrick's crane.
 </video>
