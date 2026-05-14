@@ -51,7 +51,7 @@ We've also built various human-powered vehicles.
 
 ![](/img/human-powered-vehicle-2025-05.jpg)
 
-Some years, we build Perplexus-like puzzle balls in teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration.
+Some years, in the middle of the semester, we build Perplexus-like puzzle balls in teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration. The themes that run through all the projects are mechanical design and working together.
 
 ![](/img/puzzle-balls-2023-cropped.jpg)
 ![](/img/puzzle-balls-2023-closeup.jpg)
