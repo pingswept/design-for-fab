@@ -25,7 +25,7 @@ Typically, the course consists of 6 projects, gradually increasing in length and
 
 ## Who should take this class? ##
 
-Everyone is welcome to enroll in Design for Fabrication. Historically, the class fills with seniors of various engineering majors because they get enrollment priority over juniors and A&S students. Most of the students are mechanical engineers, but we've had students from biomedical engineering, electrical engineering, engineering physics, and data science before. The students who perform best are those who enjoy building stuff. **Fabrication can be time-intensive and often frustrating. Do not take this class just because you think that it will be easier than some other engineering elective.**
+Everyone is welcome to enroll in Design for Fabrication. Historically, the class fills with seniors of various engineering majors because they get enrollment priority over juniors and A&S students. Most of the students are mechanical engineers, but we've had students from biomedical engineering, computer science, data science, electrical engineering, and engineering physics before. The students who perform best are those who enjoy building stuff. **Fabrication can be time-intensive and often frustrating. Do not take this class just because you think that it will be easier than some other engineering elective.**
 
 ## Projects from the past ##
 
@@ -38,7 +38,7 @@ We have also built cranes and various human-powered vehicles.
 ![](/img/daetz-mulcahy-crane-2023-05.mov)
 ![](/img/building-cranes-late-at-night-2023-05.jpg)
 
-Below are puzzle balls built by teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration.
+Some years, we build Perplexus-like puzzle balls in teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration.
 
 ![](/img/puzzle-balls-2023-cropped.jpg)
 ![](/img/puzzle-balls-2023-closeup.jpg)
