@@ -68,6 +68,10 @@ The image below shows the cross section of the track that you must build. The re
 
 * At no point should passengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
 
+![](/img/cog-railway-bridge-2026-05.jpg)
+
+![](/img/cog-railway-turntable-2026-05.jpg)
+
 # Px: Element of a 20ish-piece kinetic art installation
 
 With a partner of your choosing, build a 300 mm x 450 mm panel that has the following characteristics:
