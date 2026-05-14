@@ -33,7 +33,7 @@ The final project is usually a large, whole-class collaboration, like the cog ra
 
 ![](/img/cog-railway-from-above-2026-05.jpg)
 
-<video width="720" height="1280" controls>
+<video width="720" height="1280" controls poster="/img/cog-railway-instagram-2026-05-poster.jpg">
   <source src="/img/cog-railway-instagram-2026-05.mp4" type="video/mp4">
   Your browser does not support this kind of video, so I guess you won't be able to see this cool video of Cade pushing me around the loop. It's okay; I needed a haircut at the time, so I'm fine with it.
 </video>
