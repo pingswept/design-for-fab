@@ -292,6 +292,8 @@ Make a mechanism in a box that connects two opposing rods and survives explorati
 
 You will be given: 2 maple dowels, 3/8" in diameter and 8" long.
 
+![](/img/tasia-kids-mechanism-toy-2022-03.png)
+
 # Px: Human-powered vehicle
 
 Your mission is, as a team of 2 or 3, to build and test a human-powered vehicle that can traverse the course depicted in the diagram below.
