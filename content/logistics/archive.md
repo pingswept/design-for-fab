@@ -323,6 +323,8 @@ You will be given:
 
 2x4 and 2x3 lumber and 15/32 inch plywood will be available in the red zone by April 7. If there are additional materials that you need, please let Brandon know as soon as you can. Brandon/Hannah/Hannah's truck will be making multiple Home Depot runs as the project progresses, but not at midnight. (Home Depot closes at 10 PM.)
 
+![](/img/tricycle-and-archways-of-despair-2025-05.jpg)
+
 # Px: Build a sheet metal lamp
 
 Build a lamp out of sheet metal. The target here is two-fold: experience with sheet metal and experience with aesthetic design.
