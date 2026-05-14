@@ -90,6 +90,8 @@ The exact dimensions and more subtle mechanical details will be more thoroughly 
 
 Here is a mechanical drawing of the frame and drive system: https://cad.onshape.com/documents/304dd947cffe43999f775dbb/w/b5d019c1a5d10a4d9609d8b7/e/5b7bfcce3cf936338b9ad756
 
+![](/img/kinetic-sculpture-2026-04.jpg)
+
 # Px: Gravity-powered record player #
 
 Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use paper, folded sheet metal, or the like. You might make a trigger mechanism that would start the record playing.
@@ -132,6 +134,8 @@ A few guidelines to help your learning:
 * We also have a pile of 2x6's that are fair game.
 
 ![](/img/dff-chairs-2026-02.jpg)
+
+![](/img/sam-bronstein-stool-2026-02.jpg)
 
 # Px: Build a mechanical car launcher
 
