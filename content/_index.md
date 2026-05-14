@@ -29,7 +29,17 @@ Everyone is welcome to enroll in Design for Fabrication. Historically, the class
 
 ## Projects from the past ##
 
+The final project is usually a large, whole-class collaboration, like the cog railway from 2026.
+
+![](/img/cog-railway-from-above-2026-05.jpg)
+
+We have also built cranes and various human-powered vehicles.
+
+![](/img/daetz-mulcahy-crane-2023-05.mov)
+![](/img/building-cranes-late-at-night-2023-05.jpg)
+
 Below are puzzle balls built by teams of 3 or 4 people. This seems like an exercise in CAD and 3D printing, but it's actually about collaboration.
 
 ![](/img/puzzle-balls-2023-cropped.jpg)
 ![](/img/puzzle-balls-2023-closeup.jpg)
+
