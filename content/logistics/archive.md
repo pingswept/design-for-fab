@@ -2,6 +2,169 @@
 
 # THESE ARE NOT THE CURRENT PROJECTS #
 
+# Px: The TTC cog railway #
+
+## A pastoral journey in 10 parts ##
+
+Build a cog railway to allow local denizens to tour the TTC patio.
+
+We will split the class into 10 teams of 3 or 4 people. Each team will complete 1 of the 10 subprojects below. Together, we will have a cog railway which we will charge your friends to ride.
+
+![](/img/cog-railway.png)
+
+### THE STATION ###
+
+* Build a level section of track that allows people to board the railway safely. This will likely require stairs and railings. This section probably requires a rack to allow the engine cog to accelerate the train.
+
+### THE HAIRPIN ###
+
+* Build a corner that connects the station to the descent smoothly. Work with the engine team to insure that the train can make it around the corner. This section probably requires a rack to allow the engine cog to accelerate the train.
+
+### THE DESCENT ###
+
+* Build a section of track that allows the train to descend the stairs. The slope should be as shallow as possible while staying within 24 inches of the ground.
+* At the bottom of the descent, the train should be aimed toward the overpass. Coordinate with the overpass team to make sure that works.
+
+### THE OVERPASS ###
+
+* Build a structure that allows the train to pass over the garden bed without touching the plants. The span is around 14 feet. This section may require a rack to allow the train to climb up the overpass, but you might be able to avoid that if you get the descent team to deliver the train at the right height. Note that the overpass needs to be able to carry the engine, the passenger car, and the passengers without collapsing.
+
+### THE TURNTABLE ###
+
+* Build a structure that can rotate the train almost 180 degrees and align the train with a second set of tracks. Coordinate with the overpass team to make sure the structure is high enough that the train doesn't shoot off the end. Note that the turntable should be able to rotate the engine and the passenger car at the same time.
+
+### THE LONG ASCENT ###
+
+* Build a long, nearly straight section of track from the turntable to the drawbridge. Build the structure on top of the hill, not on the side of it. This section probably requires a rack in some section to allow the train to ascend.
+
+### THE DRAWBRIDGE ###
+
+* Build a corner and a straight, level section of track. The straight section should be a drawbridge, so that people can still enter the patio while construction is going on.
+
+### THE HILL CLIMB ###
+
+* Build a curve and a straight section of track that connects the drawbridge back to the station. This section definitely requires a rack in some section to allow the train to ascend.
+
+### THE ENGINE ###
+
+* Build a pedal-powered vehicle that can tow a passenger car around the railway loop. The engine team is charged with specifying the details of the cog system.
+
+### THE PASSENGER CAR ###
+
+* Build a railway car that can be towed around the railway loop while carrying 0-4 passengers. It should be able to fit around all the corners and not derail.
+
+### Track specification ###
+
+The image below shows the cross section of the track that you must build. The red hatched area shows the area where wheels should be able to pass through. Do not put anything in the red hatched area.
+
+![](/img/cog-railway-spec-04-21-26-0340.png)
+
+### You will be given:
+
+*   Access to a large pile of 1x4's, 2x4's, 2x3's and 1/2 inch plywood
+*   Other materials or parts as needed
+
+### A few notes about safety:
+
+* At no point should passengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
+
+# Px: Element of a 20ish-piece kinetic art installation
+
+With a partner of your choosing, build a 300 mm x 450 mm panel that has the following characteristics:
+
+1.  it looks cool when viewed from one side,
+2.  it connects to a shaft in one corner that, when slowly rotated with a torque of less than 0.1 Nm, makes its appearance change through purely mechanical means,
+3.  it loads its shaft with nearly constant torque,
+4.  it has no words, logos, or other explicit messages, and
+5.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
+
+The panels, if you assent, will be installed in the panes of the windows of the Nolop red zone that face the SEC patio. Each panel will be driven by a gearmotor. The motors will slowly rotate, turning on at dusk and turning off at midnight. Passersby will be entranced by the luminous wonder you have created.
+
+### You will be given:
+
+* (Collectively as a class) a large metal frame with gearmotors and shafts attached
+* Lots of colored cellophane
+* Other mechanical components that you request
+
+The exact dimensions and more subtle mechanical details will be more thoroughly specified by Tuesday, March 31.
+
+Here is a mechanical drawing of the frame and drive system: https://cad.onshape.com/documents/304dd947cffe43999f775dbb/w/b5d019c1a5d10a4d9609d8b7/e/5b7bfcce3cf936338b9ad756
+
+# Px: Gravity-powered record player #
+
+Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use paper, folded sheet metal, or the like. You might make a trigger mechanism that would start the record playing.
+
+### You will be given: ###
+
+*   1 vinyl record
+*   4 or 5 steel needles
+*   As many bricks as you request, within reason
+
+Please set your learning goals for the project on Canvas as soon as you have time.
+
+### A few pieces of advice
+
+As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
+
+You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
+
+For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
+
+# Px: Build a sturdy wooden chair
+
+Build a chair out of wood. If you prefer, you can use a different material or build a different piece of furniture that holds up a person's weight.
+
+### You will be given:
+
+*  1 square of plywood, 15.5 inches on a side
+*  2 2x4's, each 8 feet long
+*  1 1x4, 8 feet long
+
+You can use any other wood you can find or buy, but don't go buy a bunch of fancy wood. The idea here is not to make an heirloom, but to make a structurally sound chair with basic materials.
+
+A few guidelines to help your learning:
+
+* If you feel compelled to stain or paint your chair, please wait until after the due date and don't do it in Nolop. (You should probably do it outside, but it's probably too cold for that, which is why I'm trying to convince you not to do it.)
+* Think about the loads that your chair will experience when you lean back in it or tip in any direction. Try to reinforce the legs and back so that they won't break.
+* Glue joint strength is proportional to surface area.
+* In general, fasteners shouldn't take load directly-- they should hold load-bearing parts in place.
+* If you feel the need to cut a 2x4 the long way, just use a 2x2 instead. We have a pile of those.
+* We also have a pile of 2x6's that are fair game.
+
+# Px: Build a mechanical car launcher
+
+Design, prototype, and refine a mechanism that can reliably hold and release a toy car with enough force to launch a toy car through a hoop.
+
+The goal here is threefold: 
+
+1. design a means to control a large force from a rubber band with a small force from your finger
+2. validate your design with mathematical estimates
+3. practice building a smooth mechanism
+
+### You will be given:
+
+*  1 ball bearing, 8 mm OD, 3 mm ID, 4 mm width, part number 693ZZ
+*  1 piece of steel rod, 3 mm in diameter
+*  A pile of rubber bands, size 64
+*  1 toy car for propulsion
+
+### You will need to obtain:
+
+*  Probably some cardboard for prototyping
+*  Probably some plywood from the Nolop store for laser cutting
+
+## Deliverables
+
+For the second class, you should bring three things:
+
+1. A design for your car launcher in the form of a detailed drawing or CAD model
+2. Some mathematical calculations that suggest that your car launcher will propel the car to the right height
+3. Some kind of physical validation that suggests you are on the right track, like a prototype or test mechanism
+
+For the final due date, bring your car launcher to class, and we'll test them out. There will be cheers and groans.
+
+By midnight on the due date, submit some documentation: a screenshot of CAD model or a picture of your drawings, a PDF of your calculations, and a picture of what you built. If you are proud of what you built, make sure that the picture makes it look good.
+
 # Px: Folded mask or costume #
 
 Make a 3D folded mask or costume. It need not be laser-cut, but you must make a CAD model that shows the mask or costume in its folded and unfolded states. It should not be traced from an existing design of picture (unless you also drew the picture). It can cover just your face, or your whole head, but it should be 3 dimensional. It can be made of anything that folds: chipboard, thick paper, thin sheet metal, or anything else you can get. Ancillary decorations, like mustaches, are okay, but the core of the mask should be folded. It should be secured to your head somehow, so you can actually wear it.
@@ -184,167 +347,4 @@ A few guidelines to help your learning:
 * Think carefully about tip speed ratio: https://mmpa.org/wp-content/uploads/2015/09/Tip-Speed-Ratio-Provided-by-Kid-Wind-PDF.pdf
 * More technical info about [wind turbine blade design](/img/erich-hau-rotor-design.pdf) from Erich Hau's 2005 book, Wind Turbines. I would start by looking carefully at figure 5.10, and then going back to look at optimal tip speed ratio in figure 5.7.
 * You might also be interested in this [Javascript airfoil simulator](/foilsimjs/FoilSimStudent.html). You could mess around with it to create an airfoil profile that maximizes lift/drag ratio, and then click the "geometry" button to get the XY coordinates of the profile, which you could then pull into Onshape.
-
-# Px: The TTC cog railway #
-
-## A pastoral journey in 10 parts ##
-
-Build a cog railway to allow local denizens to tour the TTC patio.
-
-We will split the class into 10 teams of 3 or 4 people. Each team will complete 1 of the 10 subprojects below. Together, we will have a cog railway which we will charge your friends to ride.
-
-![](/img/cog-railway.png)
-
-### THE STATION ###
-
-* Build a level section of track that allows people to board the railway safely. This will likely require stairs and railings. This section probably requires a rack to allow the engine cog to accelerate the train.
-
-### THE HAIRPIN ###
-
-* Build a corner that connects the station to the descent smoothly. Work with the engine team to insure that the train can make it around the corner. This section probably requires a rack to allow the engine cog to accelerate the train.
-
-### THE DESCENT ###
-
-* Build a section of track that allows the train to descend the stairs. The slope should be as shallow as possible while staying within 24 inches of the ground.
-* At the bottom of the descent, the train should be aimed toward the overpass. Coordinate with the overpass team to make sure that works.
-
-### THE OVERPASS ###
-
-* Build a structure that allows the train to pass over the garden bed without touching the plants. The span is around 14 feet. This section may require a rack to allow the train to climb up the overpass, but you might be able to avoid that if you get the descent team to deliver the train at the right height. Note that the overpass needs to be able to carry the engine, the passenger car, and the passengers without collapsing.
-
-### THE TURNTABLE ###
-
-* Build a structure that can rotate the train almost 180 degrees and align the train with a second set of tracks. Coordinate with the overpass team to make sure the structure is high enough that the train doesn't shoot off the end. Note that the turntable should be able to rotate the engine and the passenger car at the same time.
-
-### THE LONG ASCENT ###
-
-* Build a long, nearly straight section of track from the turntable to the drawbridge. Build the structure on top of the hill, not on the side of it. This section probably requires a rack in some section to allow the train to ascend.
-
-### THE DRAWBRIDGE ###
-
-* Build a corner and a straight, level section of track. The straight section should be a drawbridge, so that people can still enter the patio while construction is going on.
-
-### THE HILL CLIMB ###
-
-* Build a curve and a straight section of track that connects the drawbridge back to the station. This section definitely requires a rack in some section to allow the train to ascend.
-
-### THE ENGINE ###
-
-* Build a pedal-powered vehicle that can tow a passenger car around the railway loop. The engine team is charged with specifying the details of the cog system.
-
-### THE PASSENGER CAR ###
-
-* Build a railway car that can be towed around the railway loop while carrying 0-4 passengers. It should be able to fit around all the corners and not derail.
-
-### Track specification ###
-
-The image below shows the cross section of the track that you must build. The red hatched area shows the area where wheels should be able to pass through. Do not put anything in the red hatched area.
-
-![](/img/cog-railway-spec-04-21-26-0340.png)
-
-### You will be given:
-
-*   Access to a large pile of 1x4's, 2x4's, 2x3's and 1/2 inch plywood
-*   Other materials or parts as needed
-
-### A few notes about safety:
-
-* At no point should passengers' feet be more than 30 inches off the ground. This means the rails should remain within 24 inches of the ground.
-
-# Px: Element of a 20ish-piece kinetic art installation
-
-With a partner of your choosing, build a 300 mm x 450 mm panel that has the following characteristics:
-
-1.  it looks cool when viewed from one side,
-2.  it connects to a shaft in one corner that, when slowly rotated with a torque of less than 0.1 Nm, makes its appearance change through purely mechanical means,
-3.  it loads its shaft with nearly constant torque,
-4.  it has no words, logos, or other explicit messages, and
-5.  it is generally respectful of the workspace around it, i.e. no irritating bells or oozing liquids.
-
-The panels, if you assent, will be installed in the panes of the windows of the Nolop red zone that face the SEC patio. Each panel will be driven by a gearmotor. The motors will slowly rotate, turning on at dusk and turning off at midnight. Passersby will be entranced by the luminous wonder you have created.
-
-### You will be given:
-
-* (Collectively as a class) a large metal frame with gearmotors and shafts attached
-* Lots of colored cellophane
-* Other mechanical components that you request
-
-The exact dimensions and more subtle mechanical details will be more thoroughly specified by Tuesday, March 31.
-
-Here is a mechanical drawing of the frame and drive system: https://cad.onshape.com/documents/304dd947cffe43999f775dbb/w/b5d019c1a5d10a4d9609d8b7/e/5b7bfcce3cf936338b9ad756
-
-# Px: Gravity-powered record player #
-
-Build a gravity-powered record player. You can do this on your own or with a partner, if you feel like you'll learn more working in a team. It should be able to play a 7" diameter record for 4.5 minutes at 45 RPM. If you decide you need a horn to amplify the sound, **do not 3D print one**. Instead, use paper, folded sheet metal, or the like. You might make a trigger mechanism that would start the record playing.
-
-### You will be given: ###
-
-*   1 vinyl record
-*   4 or 5 steel needles
-*   As many bricks as you request, within reason
-
-Please set your learning goals for the project on Canvas as soon as you have time.
-
-### A few pieces of advice
-
-As you think about your learning goals, it would be pretty safe to assume that all of you will be able to make a record spin. Sure, you might have a last-minute failure where some pulley comes loose on a shaft, but generally, you'll get it.
-
-You will probably also find that the sound of the needle is surprisingly audible, even with a hastily constructed paper horn for amplification.
-
-For most of you, the major challenge of the project will be figuring out how to control the speed of the record so that it spins at a constant rate. If you have no method of speed control, your record player will start slow, then spin really fast for a few seconds, and then tail off dreadfully when the weight bottoms out. Having a low-friction system is also pretty important-- it's difficult to control speed if the thing is really difficult to spin in the first place. Actually playing for 4.5 minutes is a pretty ambitious goal, but can be done with a low-friction system. We'll talk about modeling this in class.
-
-# Px: Build a sturdy wooden chair
-
-Build a chair out of wood. If you prefer, you can use a different material or build a different piece of furniture that holds up a person's weight.
-
-### You will be given:
-
-*  1 square of plywood, 15.5 inches on a side
-*  2 2x4's, each 8 feet long
-*  1 1x4, 8 feet long
-
-You can use any other wood you can find or buy, but don't go buy a bunch of fancy wood. The idea here is not to make an heirloom, but to make a structurally sound chair with basic materials.
-
-A few guidelines to help your learning:
-
-* If you feel compelled to stain or paint your chair, please wait until after the due date and don't do it in Nolop. (You should probably do it outside, but it's probably too cold for that, which is why I'm trying to convince you not to do it.)
-* Think about the loads that your chair will experience when you lean back in it or tip in any direction. Try to reinforce the legs and back so that they won't break.
-* Glue joint strength is proportional to surface area.
-* In general, fasteners shouldn't take load directly-- they should hold load-bearing parts in place.
-* If you feel the need to cut a 2x4 the long way, just use a 2x2 instead. We have a pile of those.
-* We also have a pile of 2x6's that are fair game.
-
-# Px: Build a mechanical car launcher
-
-Design, prototype, and refine a mechanism that can reliably hold and release a toy car with enough force to launch a toy car through a hoop.
-
-The goal here is threefold: 
-
-1. design a means to control a large force from a rubber band with a small force from your finger
-2. validate your design with mathematical estimates
-3. practice building a smooth mechanism
-
-### You will be given:
-
-*  1 ball bearing, 8 mm OD, 3 mm ID, 4 mm width, part number 693ZZ
-*  1 piece of steel rod, 3 mm in diameter
-*  A pile of rubber bands, size 64
-*  1 toy car for propulsion
-
-### You will need to obtain:
-
-*  Probably some cardboard for prototyping
-*  Probably some plywood from the Nolop store for laser cutting
-
-## Deliverables
-
-For the second class, you should bring three things:
-
-1. A design for your car launcher in the form of a detailed drawing or CAD model
-2. Some mathematical calculations that suggest that your car launcher will propel the car to the right height
-3. Some kind of physical validation that suggests you are on the right track, like a prototype or test mechanism
-
-For the final due date, bring your car launcher to class, and we'll test them out. There will be cheers and groans.
-
-By midnight on the due date, submit some documentation: a screenshot of CAD model or a picture of your drawings, a PDF of your calculations, and a picture of what you built. If you are proud of what you built, make sure that the picture makes it look good.
 
