@@ -35,6 +35,11 @@ The final project is usually a large, whole-class collaboration, like the cog ra
 
 We have also built cranes and various human-powered vehicles.
 
+<video width="720" height="1280" controls>
+  <source src="/img/cog-railway-instagram-2026-05.mp4" type="video/mp4">
+  Your browser does not support this kind of video, so I guess you won't be able to see this cool video.
+</video>
+
 ![](/img/daetz-mulcahy-crane-2023-05.mov)
 ![](/img/building-cranes-late-at-night-2023-05.jpg)
 
