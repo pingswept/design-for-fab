@@ -131,6 +131,8 @@ A few guidelines to help your learning:
 * If you feel the need to cut a 2x4 the long way, just use a 2x2 instead. We have a pile of those.
 * We also have a pile of 2x6's that are fair game.
 
+![](/img/dff-chairs-2026-02.jpg)
+
 # Px: Build a mechanical car launcher
 
 Design, prototype, and refine a mechanism that can reliably hold and release a toy car with enough force to launch a toy car through a hoop.
